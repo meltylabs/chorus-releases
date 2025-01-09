@@ -21,6 +21,12 @@ Button to load more OpenRouter models
 
 _2025-01-05_
 
+
+
+https://github.com/user-attachments/assets/f62bdd87-6afb-4a5b-8783-7b487016ba9d
+
+
+
 - OpenRouter support. Run any model on OpenRouter, including DeepSeek and Grok. Bring your own API key, or use our proxy.
 - Paste in image support. If you copy and image to your clipboard, you can now paste it into Chorus.
 
@@ -34,6 +40,10 @@ Bug fixes
 ## 0.3.28
 
 _2025-01-04_
+
+
+https://github.com/user-attachments/assets/81e23bfc-5f74-459e-86ea-4f5912bc383f
+
 
 - Image support for GPT 4o and Claude
 - PDF support (with caching) for Claude
@@ -72,6 +82,10 @@ Fixed some weirdness with markdown rendering
 
 _2024-12-31_
 
+
+https://github.com/user-attachments/assets/1658402c-be8e-4f68-bada-062c7043bafa
+
+
 Features
 
 - Added Perplexity and [Gemini Flash Thinking](https://simonwillison.net/2024/Dec/19/gemini-thinking-mode/)
@@ -90,6 +104,10 @@ Bugs
 ## 0.3.23
 
 _2024-12-30_
+
+
+https://github.com/user-attachments/assets/91983557-5bfc-4ee7-b2d4-3c04f2a35227
+
 
 You can now run local models! Download [Ollama](https://ollama.com) or [LM Studio](https://lmstudio.ai) (or both) and go to the /models page (cmd+shift+m) to try it out.
 
@@ -155,7 +173,7 @@ Redirect to / on chat deletion
 
 _2024-12-28_
 
-- Graph iew
+- Graph view
 - Add a new model after generations
 - CMD+L to focus on textarea
 - Empty states
@@ -246,4 +264,4 @@ Multi chats!
 
 _2024-12-11_
 
-Makeoer!
+Makeover!
