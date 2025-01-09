@@ -7,6 +7,7 @@ _2025-01-09_
 - Intel Mac support
 - Partial LaTeX support
 - Styling improvements
+- Make home page alert dismissible
 
 Bugs
 
@@ -14,6 +15,7 @@ Bugs
 - More reliable update server
 - Fix switching chat jankiness
 - Don't override ctrl+k on Mac
+- Scrollbar color on dark mode
 
 ## 0.3.31
 
