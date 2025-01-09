@@ -2,7 +2,7 @@
 
 _2025-01-07_
 
-<img width="221" alt="image" src="https://gist.github.com/user-attachments/assets/92655364-bd23-40a1-932b-36be9ede3877" />
+<img width="221" alt="image" src="https://github.com/user-attachments/assets/174a3457-e736-4279-88de-2f0bce4c597f" />
 
 - Adding options to select all messages (or none!)
 - Bug fixes
