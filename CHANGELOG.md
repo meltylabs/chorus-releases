@@ -5,10 +5,15 @@ _2025-01-09_
 ![CleanShot 2025-01-09 at 08 38 53@2x](https://github.com/user-attachments/assets/7fc0193d-fd49-4395-97d5-3379119bf3e8)
 
 - Intel Mac support
-- Latex support
-- Styling
-- More reliable updater server
+- Partial LaTeX support
+- Styling improvements
+
+Bugs
+
+- Fixed copy/paste weirdness
+- More reliable update server
 - Fix switching chat jankiness
+- Don't override ctrl+k on Mac
 
 ## 0.3.31
 
@@ -51,7 +56,6 @@ _2025-01-04_
 
 ![CleanShot 2025-01-06 at 11 17 00@2x](https://github.com/user-attachments/assets/eb932c59-e939-4134-b480-abc2b144de64)
 
-
 - Image support for GPT 4o and Claude
 - PDF support (with caching) for Claude
 - Full width chat on wide screens
@@ -91,8 +95,6 @@ _2024-12-31_
 
 ![CleanShot 2025-01-06 at 11 16 05@2x](https://github.com/user-attachments/assets/3256b11a-bc4f-4246-b7f0-9b935f6250dd)
 
-
-
 Features
 
 - Added Perplexity and [Gemini Flash Thinking](https://simonwillison.net/2024/Dec/19/gemini-thinking-mode/)
@@ -113,7 +115,6 @@ Bugs
 _2024-12-30_
 
 ![CleanShot 2025-01-06 at 11 17 21@2x](https://github.com/user-attachments/assets/1520e440-f6be-4804-9601-43bf8949a01b)
-
 
 You can now run local models! Download [Ollama](https://ollama.com) or [LM Studio](https://lmstudio.ai) (or both) and go to the /models page (cmd+shift+m) to try it out.
 
