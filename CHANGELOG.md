@@ -1,3 +1,15 @@
+## 0.3.32
+
+_2025-01-09_
+
+![CleanShot 2025-01-09 at 08 38 53@2x](https://github.com/user-attachments/assets/7fc0193d-fd49-4395-97d5-3379119bf3e8)
+
+- Intel Mac support
+- Latex support
+- Styling
+- More reliable updater server
+- Fix switching chat jankiness
+
 ## 0.3.31
 
 _2025-01-07_
