@@ -21,11 +21,7 @@ Button to load more OpenRouter models
 
 _2025-01-05_
 
-
-
-https://github.com/user-attachments/assets/f62bdd87-6afb-4a5b-8783-7b487016ba9d
-
-
+![CleanShot 2025-01-09 at 08 19 34@2x](https://github.com/user-attachments/assets/25fe4a18-6535-4674-b509-14cfa399587e)
 
 - OpenRouter support. Run any model on OpenRouter, including DeepSeek and Grok. Bring your own API key, or use our proxy.
 - Paste in image support. If you copy and image to your clipboard, you can now paste it into Chorus.
@@ -41,8 +37,7 @@ Bug fixes
 
 _2025-01-04_
 
-
-https://github.com/user-attachments/assets/81e23bfc-5f74-459e-86ea-4f5912bc383f
+![CleanShot 2025-01-06 at 11 17 00@2x](https://github.com/user-attachments/assets/eb932c59-e939-4134-b480-abc2b144de64)
 
 
 - Image support for GPT 4o and Claude
@@ -82,8 +77,8 @@ Fixed some weirdness with markdown rendering
 
 _2024-12-31_
 
+![CleanShot 2025-01-06 at 11 16 05@2x](https://github.com/user-attachments/assets/3256b11a-bc4f-4246-b7f0-9b935f6250dd)
 
-https://github.com/user-attachments/assets/1658402c-be8e-4f68-bada-062c7043bafa
 
 
 Features
@@ -105,8 +100,7 @@ Bugs
 
 _2024-12-30_
 
-
-https://github.com/user-attachments/assets/91983557-5bfc-4ee7-b2d4-3c04f2a35227
+![CleanShot 2025-01-06 at 11 17 21@2x](https://github.com/user-attachments/assets/1520e440-f6be-4804-9601-43bf8949a01b)
 
 
 You can now run local models! Download [Ollama](https://ollama.com) or [LM Studio](https://lmstudio.ai) (or both) and go to the /models page (cmd+shift+m) to try it out.
