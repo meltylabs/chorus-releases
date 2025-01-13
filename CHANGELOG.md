@@ -1,3 +1,12 @@
+## 0.4.0
+
+_2025-01-13_
+
+- New model selection interface
+- Better attachment support, including text attachments
+- Models page is renamed to Prompts page
+- Fixed API keys not saving
+
 ## 0.3.32
 
 _2025-01-09_
