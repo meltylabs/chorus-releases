@@ -2,6 +2,8 @@
 
 _2025-01-13_
 
+![CleanShot 2025-01-13 at 14 47 02@2x](https://github.com/user-attachments/assets/b574f526-e537-4001-a0ce-7f13fc3025c4)
+
 - New model selection interface
 - Better attachment support, including text attachments
 - Models page is renamed to Prompts page
