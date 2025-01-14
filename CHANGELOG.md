@@ -1,3 +1,18 @@
+## 0.4.1
+
+_2025-01-15_
+
+- Autoscroll!
+- New delete message button
+- New max width on messages
+- Attachments look better
+- Sleeker updating flow
+
+Bugs
+
+- Fixed scroll jankiness on streaming
+- Code block rendering
+
 ## 0.4.0
 
 _2025-01-13_
