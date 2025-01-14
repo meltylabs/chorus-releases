@@ -1,6 +1,6 @@
 ## 0.4.1
 
-_2025-01-15_
+_2025-01-14_
 
 - Autoscroll!
 - New delete message button
