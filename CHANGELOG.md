@@ -1,3 +1,14 @@
+## 0.4.2
+
+_2025-01-16_
+
+- Paste a URL to attach it to a message
+- Model selection once again persists across chats
+
+Bugs
+
+- Fixed an issue with dragging models
+
 ## 0.4.1
 
 _2025-01-14_
