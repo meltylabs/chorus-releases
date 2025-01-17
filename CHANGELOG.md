@@ -1,3 +1,14 @@
+## 0.4.3
+
+_2025-01-16_
+
+Bug fixes:
+
+- OpenRouter models are back online
+- Fix "Attachment is not a webpage" error
+- Improvements to URL handling on paste
+- Add "Talk to a human" button
+
 ## 0.4.2
 
 _2025-01-16_
