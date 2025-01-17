@@ -8,6 +8,7 @@ _2025-01-17_
 Features:
 
 - Renders [GitHub-Flavored Markdown](https://github.github.com/gfm/), including tables
+- Add a "recommended" section in the model picker
 
 Bug fixes
 
