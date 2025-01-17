@@ -1,3 +1,5 @@
+[Download](https://melty.sh/chorus)
+
 ## 0.4.3
 
 _2025-01-16_
