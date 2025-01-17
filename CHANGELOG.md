@@ -2,6 +2,9 @@
 
 _2025-01-17_
 
+![CleanShot 2025-01-17 at 11 18 49@2x](https://github.com/user-attachments/assets/afa99ce1-e248-48ac-87c4-fc7a1cd002bb)
+
+
 Features:
 
 - Renders [GitHub-Flavored Markdown](https://github.github.com/gfm/), including tables
