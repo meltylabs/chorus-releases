@@ -1,5 +1,20 @@
 [Download](https://melty.sh/chorus)
 
+## 0.4.4
+
+_2025-01-17_
+
+Features:
+
+- Renders [GitHub-Flavored Markdown](https://github.github.com/gfm/), including tables
+
+Bug fixes
+
+- Fixed: issue preventing some users from attaching webpages
+- Fixed: switch chats while messages are streaming
+- Fixed: click dock icon to open the app when it's been quit
+- Fixed: delete old messages
+
 ## 0.4.3
 
 _2025-01-16_
