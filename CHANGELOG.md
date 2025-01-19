@@ -1,3 +1,11 @@
+## 0.4.5
+
+_2025-01-19_
+
+Restores chat title generation.
+
+(Chat title generation on versions <= 0.4.4 is deactivated since 2025-01-19 2:20 P.M. PST so that we can rotate API keys.)
+
 ## 0.4.4
 
 _2025-01-17_
