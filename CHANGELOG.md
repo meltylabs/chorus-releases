@@ -4,8 +4,10 @@ _2025-01-20_
 
 ![CleanShot 2025-01-20 at 18 59 32@2x](https://github.com/user-attachments/assets/a94431d2-581a-4fb9-9d4c-43645b23349a)
 
+You can now synthesize chat responses into 1! Try it with ⌘S.
 
--⁠ cmd+S to synthesize responses!
+Features:
+- Synthesize responses
 -⁠ ⁠New onboarding flow
 - Company logos in model picker
 
