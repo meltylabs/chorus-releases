@@ -1,3 +1,19 @@
+## 0.5.0
+
+_2025-01-20_
+
+![CleanShot 2025-01-20 at 18 59 32@2x](https://github.com/user-attachments/assets/a94431d2-581a-4fb9-9d4c-43645b23349a)
+
+
+-⁠ cmd+S to synthesize responses!
+-⁠ ⁠New onboarding flow
+- Company logos in model picker
+
+Fixes:
+- ⁠Our mailserver is back up -- if the "Talk to human" button didn't work for you, please give it one more shot!
+- ⁠New model additions always add to the right side of the screen
+
+
 ## 0.4.5
 
 _2025-01-19_
