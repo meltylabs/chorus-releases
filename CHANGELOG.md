@@ -1,3 +1,19 @@
+## 0.5.1
+
+_2025-01-21_
+
+![CleanShot 2025-01-21 at 17 29 16@2x](https://github.com/user-attachments/assets/076320d2-18a2-407d-a02a-8cb202b5993b)
+
+Code blocks now have syntax highlighting. 
+
+Features:
+- Syntax highlighting
+- Copy user message button
+
+Fixes:
+- Add model button is now a plus sign
+- Model picker now always opens upwards
+
 ## 0.5.0
 
 _2025-01-20_
