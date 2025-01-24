@@ -1,3 +1,14 @@
+## 0.5.2
+
+_2025-01-23_
+
+Anthropic models now support citations, and we've added the two latest models from Perplexity, Sonar and Sonar Pro.
+
+Features:
+- Citations
+- Sonar + Sonar Pro
+- You can now use any model as a base prompt for a custom prompt
+
 ## 0.5.1
 
 _2025-01-21_
