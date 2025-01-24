@@ -2,6 +2,8 @@
 
 _2025-01-23_
 
+![CleanShot 2025-01-23 at 18 38 06@2x](https://github.com/user-attachments/assets/dfbfe78e-f800-4fe9-9b83-eb1b0f6e2dbf)
+
 Anthropic models now support citations, and we've added the two latest models from Perplexity, Sonar and Sonar Pro.
 
 Features:
