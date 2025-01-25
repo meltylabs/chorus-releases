@@ -1,3 +1,18 @@
+## 0.5.3
+
+_2025-01-24_
+
+<img width="596" alt="image" src="https://github.com/user-attachments/assets/e0bff906-4b5d-4438-ae64-2e483e6a14ce" />
+
+We made the model picker better, and added a new shortcut — open it with ⌘J in a chat.
+
+Fixes
+- Model pills wrapping weirdly on smaller screens
+- New tooltip that explains which messages are in context
+- Rename 'Talk to a human' to 'Feedback'
+- Design tweaks
+
+
 ## 0.5.2
 
 _2025-01-23_
