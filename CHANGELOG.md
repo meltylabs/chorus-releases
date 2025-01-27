@@ -1,3 +1,13 @@
+## 0.5.4
+
+_2025-01-27_
+
+•⁠  ⁠Users now get 100 free AI messages through Chorus (plus unlimited messages through API keys).
+•⁠  “Selected” messages are now called “included” messages
+•⁠  Fix [object Object] showing up in code blocks
+•⁠  ⁠Fix up search behavior in the new model picker
+•⁠  ⁠Fix a bug where synthesis would display alongside original responses
+
 ## 0.5.3
 
 _2025-01-24_
