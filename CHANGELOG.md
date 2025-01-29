@@ -1,3 +1,14 @@
+## 0.5.5
+
+_2025-01-28_
+
+![CleanShot 2025-01-28 at 20 24 06@2x](https://github.com/user-attachments/assets/4a416c81-4250-44af-9e46-63dccf118c6f)
+
+We've added Deepseek and Groq as providers. 
+
+- Expand message view
+- Moved copy message button to top of message
+
 ## 0.5.4
 
 _2025-01-27_
