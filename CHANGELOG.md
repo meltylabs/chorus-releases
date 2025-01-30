@@ -1,3 +1,15 @@
+## 0.5.6
+
+_2025-01-29_
+
+![quickchat](https://github.com/user-attachments/assets/6ea3a783-f883-4b92-addf-7f123672263f)
+
+Quick chat with any model, anywhere on your Mac. Activate by pressing Alt+Space. 
+
+- Max width on expanded messages
+- Add status badge for pro users
+
+
 ## 0.5.5
 
 _2025-01-28_
