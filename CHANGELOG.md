@@ -1,3 +1,15 @@
+## 0.5.8
+
+_2025-01-31_
+
+![CleanShot 2025-01-31 at 11 44 13@2x](https://github.com/user-attachments/assets/84116afb-9732-4da1-b4a7-2d7a7b3c5023)
+
+
+- Fixed a bunch of jank. Scrolling is smooth, and new chats start faster
+- Added o3-mini
+- Quick chat max size is larger
+
+
 ## 0.5.7
 
 _2025-01-30_
