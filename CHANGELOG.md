@@ -1,3 +1,13 @@
+## 0.5.7
+
+_2025-01-30_
+
+- New onboarding flow
+- Make quick chat window resizable
+- Quick chat window follows theme
+- If main window is hidden and quick chat is initiated, don't show main window
+- Better OpenRouter errors
+
 ## 0.5.6
 
 _2025-01-29_
