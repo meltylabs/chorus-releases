@@ -1,3 +1,17 @@
+## 0.5.10
+
+![CleanShot 2025-02-01 at 13 37 19@2x](https://github.com/user-attachments/assets/311fbe9c-ca15-47ed-b1b6-1f5dedb17ed0)
+
+Quick chat improvements:
+- You can now change quick chat model from the quick chat window (no need to go to settings)
+- Changing the model happens live (no need to make a new quick chat to try the new model)
+- Shortcut for changing the model
+
+Other fixes:
+- Sidebar button appears when sidebar is closed
+- Home screen page is now draggable
+
+
 ## 0.5.9
 
 _2025-01-31_
