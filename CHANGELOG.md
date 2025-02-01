@@ -1,3 +1,13 @@
+## 0.5.9
+
+_2025-01-31_
+
+<img width="673" alt="image" src="https://github.com/user-attachments/assets/9f35bb01-c846-4500-befe-b5c55bd5e37f" />
+
+- Render <think> tags as collapsible for reasoning models from DeepSeek and Ollama.
+- Allow for users to choose whether we convert long pasted text into file attachments
+- Add option to view raw output
+
 ## 0.5.8
 
 _2025-01-31_
