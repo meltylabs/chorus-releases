@@ -1,6 +1,6 @@
 ## 0.5.10
 
-![CleanShot 2025-02-01 at 13 37 19@2x](https://github.com/user-attachments/assets/311fbe9c-ca15-47ed-b1b6-1f5dedb17ed0)
+![CleanShot 2025-02-01 at 13 39 13@2x](https://github.com/user-attachments/assets/996d8cdb-bb61-4435-94a8-1c0cdd144190)
 
 Quick chat improvements:
 - You can now change quick chat model from the quick chat window (no need to go to settings)
