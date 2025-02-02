@@ -1,3 +1,13 @@
+## 0.5.11
+
+![CleanShot 2025-02-01 at 18 43 58@2x](https://github.com/user-attachments/assets/506bae1d-4590-4615-bb06-e8e02e2ab2c7)
+
+Chorus can now run terminal commands for you!
+
+Fixes:
+- Image uploads now look nicer
+- Fixed a synthesis bug 
+
 ## 0.5.10
 
 ![CleanShot 2025-02-01 at 13 39 13@2x](https://github.com/user-attachments/assets/996d8cdb-bb61-4435-94a8-1c0cdd144190)
