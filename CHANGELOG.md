@@ -1,3 +1,11 @@
+## 0.5.12
+
+_2025-02-03_
+
+![CleanShot 2025-02-03 at 17 47 04@2x](https://github.com/user-attachments/assets/abce5767-db40-4877-820e-fc931ff3928a)
+
+You can now share chats! Click `share` or press  `⌘⇧S` to generate a private shareable link to your chat.
+
 ## 0.5.11
 
 _2025-02-01_
