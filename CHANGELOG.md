@@ -1,3 +1,9 @@
+## 0.5.14
+
+![CleanShot 2025-02-05 at 13 47 48@2x](https://github.com/user-attachments/assets/8ff6a41a-6188-4563-bb8e-f9bdd7184cf8)
+
+[New models from Gemini](https://developers.googleblog.com/en/gemini-2-family-expands/), and optimized image uploads for faster vision mode.
+
 ## 0.5.13
 
 ![CleanShot 2025-02-04 at 21 01 48@2x](https://github.com/user-attachments/assets/b5745af4-c900-4b5a-9149-ba19e40f57ea)
