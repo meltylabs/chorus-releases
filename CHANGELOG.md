@@ -1,4 +1,14 @@
+## 0.5.13
+
+![CleanShot 2025-02-04 at 21 01 48@2x](https://github.com/user-attachments/assets/b5745af4-c900-4b5a-9149-ba19e40f57ea)
+
+Ambient chats can now see your screen while in vision mode. Toggle with `⌘I`. 
+
+- Fixed Sonar Perplexity citations not rendering
+- Rename quick chat to ambient chat
+
 ## 0.5.12
+
 
 _2025-02-03_
 
