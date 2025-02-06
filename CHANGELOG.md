@@ -1,6 +1,7 @@
 ## 0.5.15
 
-- Fix a bug that causes vision mode to overflow context window after a few messages. 
+- Fix a bug that causes vision mode to overflow context window after a few messages
+- Fix misc bugs in ambient chat
 - Add Ambient Claude custom prompt:
 ```
 Respond concisely. Use one or two sentences if possible.
