@@ -1,7 +1,8 @@
 ## 0.5.15
 
+- Add eye animation to Ambient Chat
 - Fix a bug that causes vision mode to overflow context window after a few messages
-- Fix misc bugs in ambient chat
+- Fix misc bugs in Ambient Chat
 - Add Ambient Claude custom prompt:
 ```
 Respond concisely. Use one or two sentences if possible.
