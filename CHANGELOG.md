@@ -1,3 +1,13 @@
+## 0.5.15
+
+- Fix a bug that causes vision mode to overflow context window after a few messages. 
+- Add Ambient Claude custom prompt:
+```
+Respond concisely. Use one or two sentences if possible.
+
+If the user has vision mode enabled, whenever they send a message, the system will automatically attach a screenshot showing the current state of their computer screen. Use these screenshots as needed to help answer the user's questions. There's no need to describe the screenshot or comment on it except insofar as it relates to the user's question.
+```
+
 ## 0.5.14
 
 ![CleanShot 2025-02-05 at 13 47 48@2x](https://github.com/user-attachments/assets/8ff6a41a-6188-4563-bb8e-f9bdd7184cf8)
