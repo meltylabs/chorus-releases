@@ -1,8 +1,8 @@
 ## 0.5.17
 
-2025-02-07
+_2025-02-07_
 
-- Fix home screen crashing bug
+- Hotfix: home screen crashing bug
 
 ## 0.5.16
 
