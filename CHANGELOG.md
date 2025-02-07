@@ -1,3 +1,9 @@
+## 0.5.16
+
+- Ambient Chat shortcut is now configurable
+- Fixed Gemini + OpenRouter failing if you used your own API keys
+- Ambient Chat polishing (background changes on focus, easier to drag)
+
 ## 0.5.15
 
 - Add eye animation to Ambient Chat
