@@ -1,3 +1,7 @@
+## 0.5.17
+
+- Fix home screen crashing bug
+
 ## 0.5.16
 
 - Ambient Chat shortcut is now configurable
