@@ -1,14 +1,20 @@
 ## 0.5.17
 
+2025-02-07
+
 - Fix home screen crashing bug
 
 ## 0.5.16
+
+_2025-02-07_
 
 - Ambient Chat shortcut is now configurable
 - Fixed Gemini + OpenRouter failing if you used your own API keys
 - Ambient Chat polishing (background changes on focus, easier to drag)
 
 ## 0.5.15
+
+_2025-02-05_
 
 - Add eye animation to Ambient Chat
 - Fix a bug that causes vision mode to overflow context window after a few messages
@@ -22,11 +28,15 @@ If the user has vision mode enabled, whenever they send a message, the system wi
 
 ## 0.5.14
 
+_2025-02-05_
+
 ![CleanShot 2025-02-05 at 13 47 48@2x](https://github.com/user-attachments/assets/8ff6a41a-6188-4563-bb8e-f9bdd7184cf8)
 
 [New models from Gemini](https://developers.googleblog.com/en/gemini-2-family-expands/), and optimized image uploads for faster vision mode.
 
 ## 0.5.13
+
+_2025-02-04_
 
 ![CleanShot 2025-02-04 at 21 01 48@2x](https://github.com/user-attachments/assets/b5745af4-c900-4b5a-9149-ba19e40f57ea)
 
