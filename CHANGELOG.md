@@ -4,10 +4,10 @@ _2025-02-08_
 
 ![CleanShot 2025-02-08 at 14 31 24@2x](https://github.com/user-attachments/assets/128f2f38-8263-4b09-a65c-60564e2a3e32)
 
--⁠ Stop / Regenerate buttons
--⁠ ⁠⁠Re-open Chorus by clicking dock icon (fix CMD+W bug)
--⁠ ⁠⁠Taller code blocks
--⁠ ⁠⁠Improved update dialog
+- Stop / Regenerate buttons
+- ⁠Re-open Chorus by clicking dock icon (fix CMD+W bug)
+- Taller code blocks
+- Improved update dialog
 
 
 ## 0.5.18
