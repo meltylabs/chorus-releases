@@ -1,3 +1,9 @@
+## 0.5.20
+
+_2025-02-10_
+
+- Fix an issue affecting chat titles and sharing
+
 ## 0.5.19
 
 _2025-02-08_
