@@ -1,3 +1,11 @@
+## 0.5.22
+
+_2025-02-11_
+
+![CleanShot 2025-02-11 at 19 55 57@2x](https://github.com/user-attachments/assets/5a453c11-b5f8-4dec-ae80-d38a25b80edf)
+
+Ollama models can now handle text files and web urls.
+
 ## 0.5.21
 
 _2025-02-11_
