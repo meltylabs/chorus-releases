@@ -1,3 +1,14 @@
+## 0.5.21
+
+_2025-02-11_
+
+![CleanShot 2025-02-11 at 17 43 27@2x](https://github.com/user-attachments/assets/87732975-5149-4df1-bc67-b0505138456f)
+
+- Ambient chats have their own folder in sidebar
+- Better error handling
+- Updated onboarding to include vision mode
+
+
 ## 0.5.20
 
 _2025-02-10_
