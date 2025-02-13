@@ -2,7 +2,7 @@
 
 _2025-02-12_
 
-Onboarding adjustments.
+Onboarding tweaks.
 
 ## 0.5.22
 
