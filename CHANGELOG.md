@@ -1,5 +1,5 @@
-## 05.24
 ## 0.5.24
+_2025-02-13_
 
 ![CleanShot 2025-02-13 at 18 58 51@2x](https://github.com/user-attachments/assets/0134a276-7527-4c14-913b-6270d1eea796)
 
