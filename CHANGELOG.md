@@ -1,3 +1,18 @@
+## 05.24
+## 0.5.24
+
+![CleanShot 2025-02-13 at 18 58 51@2x](https://github.com/user-attachments/assets/0134a276-7527-4c14-913b-6270d1eea796)
+
+Redesigned, more intuitive chat flow. 
+
+- Messages that are part of the conversation now shift to the left
+- Synthesize button moved to left
+- You can now add any model to a response
+- LM Studio base URL is customizable (Settings -> API Keys)
+
+Let us know if the new flow is a regression in any way! We love your feedback :) 
+founders@melty.sh
+
 ## 0.5.23
 
 _2025-02-12_
