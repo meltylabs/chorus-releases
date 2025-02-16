@@ -1,3 +1,12 @@
+## 0.5.25
+_2025-02-13_
+
+- Fixed Ambient Chat not working in onboarding
+- Automatic images resizing
+- Improved error messages
+
+
+
 ## 0.5.24
 _2025-02-13_
 
