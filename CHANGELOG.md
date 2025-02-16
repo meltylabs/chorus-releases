@@ -1,6 +1,7 @@
 ## 0.5.25
-_2025-02-13_
+_2025-02-15_
 
+- Synthesis is easier to toggle
 - Added a max height for non primary messages
 - Fixed Ambient Chat not working in onboarding
 - Automatic images resizing
