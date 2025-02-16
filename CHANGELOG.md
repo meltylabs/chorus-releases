@@ -1,6 +1,7 @@
 ## 0.5.25
 _2025-02-13_
 
+- Added a max height for non primary messages
 - Fixed Ambient Chat not working in onboarding
 - Automatic images resizing
 - Improved error messages
