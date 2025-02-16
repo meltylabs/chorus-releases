@@ -1,6 +1,8 @@
 ## 0.5.25
 _2025-02-15_
 
+![CleanShot 2025-02-15 at 19 09 07@2x](https://github.com/user-attachments/assets/301db189-61f3-4ed0-9fe0-4f22b71c9cc2)
+
 - Synthesis is easier to toggle
 - Added a max height for non primary messages
 - Fixed Ambient Chat not working in onboarding
