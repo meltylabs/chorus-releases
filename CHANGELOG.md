@@ -1,3 +1,9 @@
+## 0.5.26
+_2025-02-17_
+
+- Fix sidebar button
+- Show auth pop-up if you're not logged in
+
 ## 0.5.25
 _2025-02-15_
 
