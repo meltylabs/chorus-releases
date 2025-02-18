@@ -1,3 +1,11 @@
+## 0.5.27
+_2025-02-17_
+
+![CleanShot 2025-02-17 at 18 21 15@2x](https://github.com/user-attachments/assets/e13283a5-7d2f-450e-a352-386a7bd7c03c)
+
+- Show time to first token and approximate tokens/sec (we're using the 4o tokenizer right now)
+- Ambient chat takes precedence over full screen apps
+
 ## 0.5.26
 _2025-02-17_
 
