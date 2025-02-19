@@ -4,7 +4,6 @@
 
 Support for OpenRouter model image attachments. 
 
-- Fixed issue that may cause Enter key to stop working
 - Settings moved to `Chorus` section on menu bar
 
 ## 0.5.27
