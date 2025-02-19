@@ -5,6 +5,7 @@
 Support for OpenRouter model image attachments. 
 
 - Settings moved to `Chorus` section on menu bar
+- Address an occasional issue where enter would not cause a message to submit
 
 ## 0.5.27
 _2025-02-17_
