@@ -1,3 +1,12 @@
+## 0.5.28
+
+![CleanShot 2025-02-18 at 18 25 29@2x](https://github.com/user-attachments/assets/94a62efd-32d1-4cb6-9734-ec22928fbe37)
+
+Support for OpenRouter model image attachments. 
+
+- Fixed issue that may cause Enter key to stop working
+- Settings moved to `Chorus` section on menu bar
+
 ## 0.5.27
 _2025-02-17_
 
