@@ -1,3 +1,14 @@
+## 0.5.29
+_2025-02-20_
+
+UI fixes
+- Improve code blocks performance
+- Fix Claude cache-control issue
+- Widen responses
+- Less fade on secondary responses
+- Remove max height on messages
+- Remove delete button
+
 ## 0.5.28
 _2025-02-18_
 
