@@ -1,13 +1,17 @@
 ## 0.5.29
 _2025-02-20_
 
-UI fixes
+Lots of clean up!*
 - Improve code blocks performance
 - Fix Claude cache-control issue
 - Widen responses
 - Less fade on secondary responses
 - Remove max height on messages
 - Remove delete button
+- Remove double scroll bars and hidden scroll bars
+- New chats are faster to load
+
+*(Thanks Fred and Michael)
 
 ## 0.5.28
 _2025-02-18_
