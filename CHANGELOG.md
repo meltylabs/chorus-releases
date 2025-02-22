@@ -11,7 +11,7 @@ Lots of clean up!*
 - Remove double scroll bars and hidden scroll bars
 - New chats are faster to load
 
-*(Fix Fred and Michael's problems)
+*(Fix some of Fred and Michael's problems)
 
 ## 0.5.28
 _2025-02-18_
