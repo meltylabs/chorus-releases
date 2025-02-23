@@ -1,5 +1,11 @@
+## 0.5.30
+_2025-02-22_
+
+- Allow skipping the ambient chat step in onboarding
+- Markdown rendering fixes
+
 ## 0.5.29
-_2025-02-20_
+_2025-02-21_
 
 Lots of clean up!*
 - Improve code blocks performance
