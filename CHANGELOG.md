@@ -1,7 +1,8 @@
 ## 0.5.32
 _2025-02-24_
 
-![CleanShot 2025-02-24 at 12 42 57@2x](https://github.com/user-attachments/assets/16ca01d8-4cb3-4688-89fa-cd4b40b61243)
+![CleanShot 2025-02-24 at 12 57 24@2x](https://github.com/user-attachments/assets/15ceaf97-2616-4ff1-8894-0f364ebcfa61)
+
 
 Claude 3.7 is live!
 
