@@ -1,3 +1,10 @@
+## 0.5.33
+_2025-02-24_
+
+![CleanShot 2025-02-24 at 13 46 43@2x](https://github.com/user-attachments/assets/5325e45f-f96e-4653-962c-544dfe22e80e)
+
+Show Claude's thinking tokens.
+
 ## 0.5.32
 _2025-02-24_
 
