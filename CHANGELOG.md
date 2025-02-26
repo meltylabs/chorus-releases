@@ -1,9 +1,9 @@
 ## 0.5.34
 _2025-02-25_
 
-•⁠  ⁠Clean up the settings page
-•⁠  ⁠Fix a bug where the scroll-to-bottom button would appear in Ambient Chat
-•⁠  ⁠Add review mode (experimental)
+- Clean up the settings page
+- ⁠Fix a bug where the scroll-to-bottom button would appear in Ambient Chat
+- ⁠Add review mode (experimental)
 
 ## 0.5.33
 _2025-02-24_
