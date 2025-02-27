@@ -1,4 +1,4 @@
-## 0.5.35
+## 0.5.36
 _2025-02-27_
 
 ![CleanShot 2025-02-27 at 13 34 19@2x](https://github.com/user-attachments/assets/a26a3d82-1e3f-4df3-98c8-069b5236f9c5)
