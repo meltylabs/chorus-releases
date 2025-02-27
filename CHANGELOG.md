@@ -1,3 +1,14 @@
+## 0.5.35
+_2025-02-26_
+
+![CleanShot 2025-02-26 at 20 35 21@2x](https://github.com/user-attachments/assets/c73a5d56-b0c3-4f58-afae-13b3e2092c15)
+
+Ambient chat now works on 2 monitor setups, and views whatever screen it is open on. It's also more obvious :)
+
+- Image resizing and uploading is now 10x faster
+- Add toggle for URL auto-scraping
+- Fix MELTY_PLACEHOLDER bug
+
 ## 0.5.34
 _2025-02-25_
 
