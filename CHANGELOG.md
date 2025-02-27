@@ -1,4 +1,15 @@
 ## 0.5.35
+_2025-02-27_
+
+![CleanShot 2025-02-27 at 13 34 19@2x](https://github.com/user-attachments/assets/a26a3d82-1e3f-4df3-98c8-069b5236f9c5)
+
+GPT-4.5 Preview and o3-mini-high are now live in Chorus.
+
+![CleanShot 2025-02-27 at 13 35 04@2x](https://github.com/user-attachments/assets/abb6554d-a8e7-47d3-a372-002cdb1e7f0c)
+
+We've also added a highlight to reply tooltip.
+
+## 0.5.35
 _2025-02-26_
 
 ![CleanShot 2025-02-26 at 20 35 21@2x](https://github.com/user-attachments/assets/c73a5d56-b0c3-4f58-afae-13b3e2092c15)
