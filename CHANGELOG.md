@@ -1,3 +1,15 @@
+## 0.5.37
+_2025-03-03_
+
+![PHOTO-2025-03-03-11-02-55](https://github.com/user-attachments/assets/ecedd76f-dbc3-47ef-b58c-d8490a8f6af1)
+
+Introducing Reviews! 
+
+AIs now review each other&rsquo;s messages for accuracy and clarity. Only one AI responds at a time.
+
+ If you prefer to see responses side-by-side, you can turn on Legacy Mode in settings.
+
+
 ## 0.5.36
 _2025-02-27_
 
