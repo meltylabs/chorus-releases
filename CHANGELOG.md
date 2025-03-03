@@ -1,4 +1,4 @@
-## 0.5.37
+## 0.6.0
 _2025-03-03_
 
 ![PHOTO-2025-03-03-11-02-55](https://github.com/user-attachments/assets/ecedd76f-dbc3-47ef-b58c-d8490a8f6af1)
