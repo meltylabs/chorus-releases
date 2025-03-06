@@ -1,3 +1,14 @@
+## 0.6.2
+_2025-03-05_
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/97e0e4b8-e44d-4cab-8d75-a1e88641205a" />
+
+We've added Perplexity Sonar Pro as a reviewer, and added support for PDFs for GPT-4o and GPT-4.5.
+
+Other fixes:
+- Agreement is more subtle
+- We now ask for screen sharing permissions in onboarding if you want to use vision mode
+
 ## 0.6.1
 _2025-03-03_
 
