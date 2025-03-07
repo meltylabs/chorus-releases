@@ -12,7 +12,7 @@ Fixes
 - Change add -> select in model picker
 - Update the reviewer order
 - Don't show update dialog in Ambient Chat window
-
+- Make opening Ambient Chats less weird
 
 
 ## 0.6.2
