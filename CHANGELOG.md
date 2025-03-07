@@ -1,3 +1,20 @@
+## 0.6.3
+_2025-03-06_
+
+![CleanShot 2025-03-06 at 19 39 09@2x](https://github.com/user-attachments/assets/de21e524-e8e9-44d4-a8d2-0fcdc1e4d2b3)
+
+
+We've added Perplexity's R1, Sonar Reasoning Pro, and Sonar Deep Research. And fixed lots of bugs.
+
+Fixes
+- Update Ambient Chat permissions request during onboarding
+- Fix code block rendering in Ambient Chat
+- Change add -> select in model picker
+- Update the reviewer order
+- Don't show update dialog in Ambient Chat window
+
+
+
 ## 0.6.2
 _2025-03-05_
 
