@@ -1,7 +1,7 @@
 ## 0.6.3
 _2025-03-06_
 
-![CleanShot 2025-03-06 at 19 39 09@2x](https://github.com/user-attachments/assets/de21e524-e8e9-44d4-a8d2-0fcdc1e4d2b3)
+![CleanShot 2025-03-06 at 20 00 22@2x](https://github.com/user-attachments/assets/cbf285d2-8ca5-4682-bcce-0a9cab0440a6)
 
 
 We've added Perplexity's R1, Sonar Reasoning Pro, and Sonar Deep Research. And fixed lots of bugs.
