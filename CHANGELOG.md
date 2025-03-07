@@ -13,6 +13,7 @@ Fixes
 - Update the reviewer order
 - Don't show update dialog in Ambient Chat window
 - Make opening Ambient Chats less weird
+- Less bold markdown headers
 
 
 ## 0.6.2
