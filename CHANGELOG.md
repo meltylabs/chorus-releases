@@ -1,3 +1,9 @@
+## 0.6.4
+
+- GPT-4.5 Preview is now Pro user only
+- Improved permissions flow during onboarding
+- Re-ordering suggested models 
+
 ## 0.6.3
 _2025-03-06_
 
