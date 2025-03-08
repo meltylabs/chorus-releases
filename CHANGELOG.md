@@ -2,6 +2,8 @@
 
 - GPT-4.5 Preview is now Pro user only
 - Improved permissions flow during onboarding
+- Site now makes it clear how to download for Silicon vs. Intel Mac
+- Added [Windows waitlist](https://forms.gle/ogL63pTWVKV8DAVXA)
 - Re-ordering suggested models 
 
 ## 0.6.3
