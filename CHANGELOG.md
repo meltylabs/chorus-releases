@@ -1,8 +1,10 @@
 ## 0.6.5
+_2025-03-08_
 
 - You can now use GPT-4.5 through your own OpenAI API key
 
 ## 0.6.4
+_2025-03-07_
 
 - GPT-4.5 Preview is now Pro user only
 - Improved permissions flow during onboarding
