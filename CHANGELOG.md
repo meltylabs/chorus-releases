@@ -1,3 +1,7 @@
+## 0.6.5
+
+- You can now use GPT-4.5 through your own OpenAI API key
+
 ## 0.6.4
 
 - GPT-4.5 Preview is now Pro user only
