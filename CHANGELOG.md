@@ -2,9 +2,8 @@
 _2025_03-11_
 
 ![CleanShot 2025-03-11 at 19 50 40@2x](https://github.com/user-attachments/assets/7ef2e8d6-596f-415a-a161-53d5157fd0c8)
-![CleanShot 2025-03-11 at 19 50 56@2x](https://github.com/user-attachments/assets/96791825-704e-49b7-92f5-93b8d9891651)
 
-Chorus is now more beautiful! 
+Chorus is now more beautiful! We've updated the UI to be a lot more consistent and pretty. 
 
 ## 0.6.5
 _2025-03-08_
