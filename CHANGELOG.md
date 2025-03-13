@@ -1,3 +1,14 @@
+## 0.6.7
+_2025_03-12_
+![CleanShot 2025-03-12 at 20 02 26@2x](https://github.com/user-attachments/assets/ab0cefa5-967d-4c24-a1d9-49519e77a9bc)
+
+You can now undo, regenerate, and hide reviews. They also look a bit nicer now.
+
+- Fixed stroke width for @TheXeophon
+- Modals blur background
+- UI touch-ups
+
+
 ## 0.6.6
 _2025_03-11_
 
