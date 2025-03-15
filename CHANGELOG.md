@@ -1,5 +1,5 @@
 ## 0.6.7
-_2025_03-12_
+_2025-03-12_
 
 ![CleanShot 2025-03-12 at 20 02 26@2x](https://github.com/user-attachments/assets/ab0cefa5-967d-4c24-a1d9-49519e77a9bc)
 
@@ -14,7 +14,7 @@ You can now undo, regenerate, and hide reviews. They also look a bit nicer now.
 
 
 ## 0.6.6
-_2025_03-11_
+_2025-03-11_
 
 ![CleanShot 2025-03-11 at 19 50 40@2x](https://github.com/user-attachments/assets/7ef2e8d6-596f-415a-a161-53d5157fd0c8)
 
