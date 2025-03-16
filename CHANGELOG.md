@@ -3,7 +3,8 @@ _2025-03-15_
 
 ![CleanShot 2025-03-15 at 17 35 43@2x](https://github.com/user-attachments/assets/e9e235e6-d85e-4c70-a427-943075905336)
 
-- GPT 4o web search
+We've added web search for GPT 4o. 
+
 - Faster PDF uploads for OpenAI models (we switched to using the Responses API)
 - MacOS 13.0+ compatability (thanks Roman!)
 - Free tier usage reduced to 50 Chorus requests
