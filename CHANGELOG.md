@@ -6,7 +6,7 @@ _2025-03-15_
 We've added web search for GPT 4o. 
 
 - Faster PDF uploads for OpenAI models (we switched to using the Responses API)
-- MacOS 13.0+ compatability (thanks Roman!)
+- Potential MacOS 13.0+ compatability (thanks Roman!)
 - Free tier usage reduced to 50 Chorus requests
 
 Fixes
