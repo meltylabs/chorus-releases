@@ -10,7 +10,7 @@ We've added web search for GPT 4o.
 - Free tier usage reduced to 50 Chorus requests for new users 
 
 Fixes
-- Input no longer gets deleted if submit while attachment is loading
+- Fixed a bug where submitting while an attachment was loading would cause the input to clear
 - Ensure space at bottom for reading last message when text input is full
 
 
