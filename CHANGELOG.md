@@ -7,7 +7,7 @@ We've added web search for GPT 4o.
 
 - Faster PDF uploads for OpenAI models (we switched to using the Responses API)
 - Potential MacOS 13.0+ compatability (thanks Roman!)
-- Free tier usage reduced to 50 Chorus requests
+- Free tier usage reduced to 50 Chorus requests for new users 
 
 Fixes
 - Input no longer gets deleted if submit while attachment is loading
