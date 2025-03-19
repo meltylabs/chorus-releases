@@ -1,4 +1,4 @@
-## 0.6.9
+## 0.6.10
 _2025-03-19_
 
 ![CleanShot 2025-03-19 at 15 18 59@2x](https://github.com/user-attachments/assets/82c2ab9a-9f11-4cce-9a33-31230b750b68)
