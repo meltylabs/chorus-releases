@@ -1,3 +1,17 @@
+## 0.6.9
+_2025-03-19_
+
+![CleanShot 2025-03-19 at 15 18 59@2x](https://github.com/user-attachments/assets/82c2ab9a-9f11-4cce-9a33-31230b750b68)
+
+We've added a new brainstorm mode. We've also made it easier to switch between Compare (previously called Legacy Mode) and regular chatting.
+
+Fixes
+- Much faster code rendering
+- Faster token stream rendering
+- Added Ambient chat wrapping on code blocks
+- Slightly reduced font size
+- Clean up CMD+L styling
+
 ## 0.6.8
 _2025-03-15_
 
