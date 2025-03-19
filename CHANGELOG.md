@@ -3,14 +3,17 @@ _2025-03-19_
 
 ![CleanShot 2025-03-19 at 15 18 59@2x](https://github.com/user-attachments/assets/82c2ab9a-9f11-4cce-9a33-31230b750b68)
 
-We've added a new brainstorm mode. We've also made it easier to switch between Compare (previously called Legacy Mode) and regular chatting.
+We've added a new brainstorm mode. We've also made it easier to switch between "compare mode" (previously called "legacy mode") and regular chatting.
+
+Improvements
+- The model list on the prompts page is now sorted alphabetically. Also, to make it more searchable, we removed OpenRouter models from that list.
+- Faster code rendering
+- Faster model streaming
+- Reduced the message font size slightly
 
 Fixes
-- Much faster code rendering
-- Faster token stream rendering
-- Added Ambient chat wrapping on code blocks
-- Slightly reduced font size
-- Clean up CMD+L styling
+- Fixed an issue where messages with code blocks in Ambient chat would be wider than the window
+- Fixed an issue where the "CMD+L to focus" text was sometimes unreadable
 
 ## 0.6.8
 _2025-03-15_
