@@ -1,7 +1,7 @@
 ## 0.6.11 
-_2025-03-19_
+_2025-03-20_
 
-Add more synax highlighters and fixed a bug that can cause app to crash.
+Add syntax highlight support for more langauges and fixed a bug that can cause app to crash.
 
 ## 0.6.10
 _2025-03-19_
