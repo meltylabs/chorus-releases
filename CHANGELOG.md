@@ -1,3 +1,10 @@
+## 0.6.12
+_2025-03-20_
+
+![CleanShot 2025-03-20 at 16 29 51@2x](https://github.com/user-attachments/assets/2a6177df-7e7f-40c2-896a-67cc63460809)
+
+We've added support for o1-pro, OpenAI's most powerful model.
+
 ## 0.6.11 
 _2025-03-20_
 
