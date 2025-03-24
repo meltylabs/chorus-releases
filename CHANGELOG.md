@@ -1,3 +1,14 @@
+## 0.6.13
+_2025-03-24_
+
+<img width="849" alt="image" src="https://github.com/user-attachments/assets/736febe0-3eae-4d94-aa1c-74770152c1ab" />
+
+- Horizontal scroll for model pills in Compare mode
+- Fix Ambient Chat text overlap
+- Fixed image resizing bug
+- Dark mode UI tweaks
+
+
 ## 0.6.12
 _2025-03-20_
 
