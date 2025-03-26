@@ -1,3 +1,11 @@
+## 0.6.14
+_2025-03-25_
+
+![CleanShot 2025-03-25 at 20 39 28@2x](https://github.com/user-attachments/assets/154e15b8-96c1-4679-8334-d895a1542aad)
+
+We've added support for [Gemini 2.5 Pro Experimental](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/#gemini-2-5-pro), Google's most advanced model.
+
+
 ## 0.6.13
 _2025-03-24_
 
