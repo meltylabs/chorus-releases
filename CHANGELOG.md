@@ -20,6 +20,7 @@ Other improvements:
 - In chat mode, sending a message will stop any previous messages that are still streaming
 - The pin button in the sidebar is moved to avoid cutting off chat names
 - Message drafts now autosave
+- Chorus no longer generates reviews for messages that you send while reviews are hidden. When reviews are shown, you can add them by clicking "Generate reviews".
 
 Removed: reply to selection, model reordering in compare mode.
 
