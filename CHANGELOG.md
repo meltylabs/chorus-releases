@@ -1,3 +1,28 @@
+## 0.7.0
+
+_2025-04-01_
+
+<img width="1206" alt="image" src="https://github.com/user-attachments/assets/33f3916a-5ad2-446c-8f19-7709419a7f62" />
+
+New features:
+
+- Find in chat
+- Summarize chat (pictured above)
+- Spinner in sidebar indicates which chats have messages that are streaming
+
+Big improvements under the hood, including:
+
+- Seamlessly switch between chats
+- Long chats are faster, thanks to incremental loading
+
+Other improvements:
+
+- In chat mode, sending a message will stop any previous messages that are still streaming
+- The pin button in the sidebar is moved to avoid cutting off chat names
+- Message drafts now autosave
+
+Removed: reply to selection, model reordering in compare mode.
+
 ## 0.6.14
 _2025-03-25_
 
