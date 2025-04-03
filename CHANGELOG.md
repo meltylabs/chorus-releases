@@ -16,7 +16,8 @@ UI touch-ups
 - Added a drag target at the top of the chat window:
 <img width="1410" alt="image" src="https://github.com/user-attachments/assets/44e7b293-b648-4156-a7b4-d0943dbe4f07" />
 
-## Fixes
+Fixes
+
 - Ambient chats no longer cost 3 requests per message
 
 
