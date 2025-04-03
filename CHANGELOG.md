@@ -1,3 +1,23 @@
+## 0.7.1
+![CleanShot 2025-04-03 at 15 07 36@2x](https://github.com/user-attachments/assets/c60b7c41-8d64-49db-8fa8-3c32ebeba2f7)
+
+We've simplified our [pricing](https://chorus.sh/pricing), and overhauled the model picker to separate models into fast, plus, and frontier. 
+
+UI touch-ups:
+
+Added a hover state for sidebar buttons:
+<img width="243" alt="image" src="https://github.com/user-attachments/assets/9fb2dffc-ba1e-45f9-aef0-1405744955a7" />
+
+Aligned buttons in chat input:
+<img width="791" alt="image" src="https://github.com/user-attachments/assets/be374bfa-f6d9-4f62-b110-87d1b38405cf" />
+
+Added a drag target at the top of the chat window:
+<img width="1410" alt="image" src="https://github.com/user-attachments/assets/44e7b293-b648-4156-a7b4-d0943dbe4f07" />
+
+Fixes:
+- Ambient chats no longer cost 3 requests per message
+
+
 ## 0.7.0
 
 _2025-04-01_
