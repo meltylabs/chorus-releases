@@ -5,16 +5,9 @@ We've simplified our [pricing](https://chorus.sh/pricing), and overhauled the mo
 
 
 UI touch-ups
-- Added a hover state for sidebar buttons:
-
-<img width="243" alt="image" src="https://github.com/user-attachments/assets/9fb2dffc-ba1e-45f9-aef0-1405744955a7" />
-
-- Aligned buttons in chat input:
-
-<img width="791" alt="image" src="https://github.com/user-attachments/assets/be374bfa-f6d9-4f62-b110-87d1b38405cf" />
-
-- Added a drag target at the top of the chat window:
-<img width="1410" alt="image" src="https://github.com/user-attachments/assets/44e7b293-b648-4156-a7b4-d0943dbe4f07" />
+- Added a hover state for sidebar buttons
+- Aligned buttons in chat input
+- Added a drag target at the top of the chat window
 
 Fixes
 
