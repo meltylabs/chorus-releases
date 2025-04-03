@@ -3,6 +3,7 @@
 
 We've simplified our [pricing](https://chorus.sh/pricing), and overhauled the model picker to separate models into fast, plus, and frontier. 
 
+All users now have unlimited access to "fast" models, gpt-4o-mini and Gemini Flash 2.0. 
 
 Tweaks
 - Added a hover state for sidebar buttons
