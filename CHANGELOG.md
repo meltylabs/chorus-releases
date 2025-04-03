@@ -4,10 +4,11 @@
 We've simplified our [pricing](https://chorus.sh/pricing), and overhauled the model picker to separate models into fast, plus, and frontier. 
 
 
-UI touch-ups
+Tweaks
 - Added a hover state for sidebar buttons
 - Aligned buttons in chat input
 - Added a drag target at the top of the chat window
+- Indicator to show if you're using your own API keys
 
 Fixes
 
