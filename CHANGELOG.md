@@ -8,7 +8,6 @@ All users now have unlimited access to "fast" models, gpt-4o-mini and Gemini Fla
 Tweaks
 - Added a hover state for sidebar buttons
 - Aligned buttons in chat input
-- Added a drag target at the top of the chat window
 - Indicator to show if you're using your own API keys
 
 Fixes
