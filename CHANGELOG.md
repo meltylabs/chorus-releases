@@ -1,4 +1,27 @@
+## 0.7.2
+_2025-04-05_
+
+![CleanShot 2025-04-05 at 14 28 53@2x](https://github.com/user-attachments/assets/282edc05-3f48-4def-bdeb-fc3a9ecb575a)
+
+You can now branch chats, and edit messages. Click any human message to edit it.
+
+We've also added Llama 4 Scout and Maverick.
+
+New
+- Branch conversations
+- Edit user messages
+- Llama 4 Scout and Maverick
+- Gemini 2.5 is now a reviewer (and no longer experimental)
+- Drag target on top of chat window
+- ⌘G / ⌘+Shift+G for next / previous in find in chat
+
+Fixes
+- View local models again
+- Scroll to bottom on new chat
+- Chat spacing
+
 ## 0.7.1
+_2025-04-02_
 ![CleanShot 2025-04-03 at 15 07 36@2x](https://github.com/user-attachments/assets/c60b7c41-8d64-49db-8fa8-3c32ebeba2f7)
 
 We've simplified our [pricing](https://chorus.sh/pricing), and overhauled the model picker to separate models into fast, plus, and frontier. 
