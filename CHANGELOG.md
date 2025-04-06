@@ -1,4 +1,9 @@
 ## 0.7.3
+_2025-04-06_
+
+- Set Gemini 2.5 Pro to the default chat and Ambient Chat model
+  
+## 0.7.3
 _2025-04-05_
 
 - Choose your own Ambient Chat model
