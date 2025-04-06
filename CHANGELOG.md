@@ -19,6 +19,7 @@ Fixes
 - View local models again
 - Scroll to bottom on new chat
 - Chat spacing
+- Google models no longer complain about empty text parameters
 
 ## 0.7.1
 _2025-04-02_
