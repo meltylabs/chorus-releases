@@ -1,3 +1,10 @@
+## 0.7.3
+_2025-04-05_
+
+- Choose your own Ambient Chat model
+- Add vision capabilities to Llama 4 models
+- Fix bug that causes chats with old reviewers to crash
+
 ## 0.7.2
 _2025-04-05_
 
