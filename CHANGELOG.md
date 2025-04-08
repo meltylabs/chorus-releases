@@ -1,4 +1,17 @@
-## 0.7.3
+## 0.7.5
+_2025-04-07_
+
+Features
+
+- Option to make the enter key insert a new line (cmd+enter to submit) in Settings -> Appearance
+
+Fixes
+
+- Bring Grok, OpenRouter, and DeepSeek models up to compatibility with latest version of the Chorus server
+- Fix a bug where entering special characters in the command menu crashes the app
+- Remove the nonfunctional "Reply to selection" button (for now)
+
+## 0.7.4
 _2025-04-06_
 
 - Set Gemini 2.5 Pro to the default chat and Ambient Chat model
