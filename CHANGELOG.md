@@ -1,3 +1,10 @@
+## 0.7.7
+_2025-04-08_
+
+![CleanShot 2025-04-09 at 16 37 53@2x](https://github.com/user-attachments/assets/c573534c-d1b7-4508-b83d-80ecd16e84c6)
+
+We added the Grok 3 models.
+
 ## 0.7.6 
 _2025-04-08_
 
