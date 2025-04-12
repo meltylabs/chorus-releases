@@ -1,3 +1,8 @@
+## 0.7.8
+_2025-04-12_
+
+You can now refresh summaries. Also, some bugfixes.
+
 ## 0.7.7
 _2025-04-08_
 
