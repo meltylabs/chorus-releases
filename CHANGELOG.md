@@ -1,6 +1,8 @@
 ## 0.7.8
 _2025-04-12_
 
+![CleanShot 2025-04-12 at 16 03 16@2x](https://github.com/user-attachments/assets/3086add4-0a7c-4edc-a157-0478c795bd08)
+
 You can now refresh summaries. Also, some bugfixes.
 
 ## 0.7.7
