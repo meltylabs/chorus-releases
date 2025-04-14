@@ -1,5 +1,12 @@
+## 0.7.10
+_2025-04-14_
+
+![CleanShot 2025-04-14 at 10 39 42@2x](https://github.com/user-attachments/assets/57ed81ee-5baf-4f89-b3bb-023fec1ef966)
+
+We added GPT-4.1, OpenAI's new flagship model, and GPT-4.1 Mini. Both come with web search enabled by default.
+
 ## 0.7.9
-_2025-04-12_
+_2025-04-13_
 
 Bugfixes.
 
