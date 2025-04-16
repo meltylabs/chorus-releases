@@ -1,3 +1,11 @@
+## 0.7.11
+_2025-04-14_
+
+<img width="819" alt="image" src="https://github.com/user-attachments/assets/1292956a-ade7-485b-a692-e9920b040890" />
+
+
+We added o3 and o4-mini, new reasoning models from OpenAI.
+
 ## 0.7.10
 _2025-04-14_
 
