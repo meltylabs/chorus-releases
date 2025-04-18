@@ -1,10 +1,17 @@
+## 0.7.13
+_2025-04-18_
+
+![CleanShot 2025-04-18 at 16 34 34@2x](https://github.com/user-attachments/assets/9eb7ccbe-782b-468b-ac7b-b0748d10719c)
+
+Added web search to o3 and o4-mini, and fixed their markdown rendering.
+
 ## 0.7.12
-_2025-04-14_
+_2025-04-17_
 
 We added Gemini 2.5 Flash Preview, a new lightweight model from Google.
 
 ## 0.7.11
-_2025-04-14_
+_2025-04-15_
 
 <img width="819" alt="image" src="https://github.com/user-attachments/assets/1292956a-ade7-485b-a692-e9920b040890" />
 
