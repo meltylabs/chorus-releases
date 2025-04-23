@@ -1,3 +1,10 @@
+## 0.7.14
+_2025-04-23_
+
+![CleanShot 2025-04-23 at 19 27 12@2x](https://github.com/user-attachments/assets/891de85b-ac53-4bac-adb8-e7a5384539ee)
+
+We improved the CMD+K search.
+
 ## 0.7.13
 _2025-04-18_
 
