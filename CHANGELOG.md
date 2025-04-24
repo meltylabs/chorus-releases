@@ -1,7 +1,8 @@
 ## 0.7.15
 _2025-04-24_
 
-Fixed menu bar.
+- Fixed menu bar.
+- Reduced new update available toast from every 30 seconds to every 5 minutes
 
 ## 0.7.14
 _2025-04-23_
