@@ -1,7 +1,7 @@
 ## 0.7.15
 _2025-04-24_
 
-Fixed the menu bar.
+Fixed Menu bar.
 
 ## 0.7.14
 _2025-04-23_
