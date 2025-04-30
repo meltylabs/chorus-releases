@@ -1,7 +1,8 @@
 ## 0.7.17
 _2025-04-29_
 
-![CleanShot 2025-04-29 at 20 39 20@2x](https://github.com/user-attachments/assets/e2e4da95-032c-4ffe-b34f-02428a3862e8)
+![CleanShot 2025-04-29 at 20 41 14@2x](https://github.com/user-attachments/assets/f8679151-6b82-431d-bdee-cde7c1484a60)
+
 
 - Added Mac menubar shortcut for Ambient Chat
 - Fixed crash loop if you're on waitlist
