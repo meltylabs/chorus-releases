@@ -1,3 +1,12 @@
+## 0.7.17
+_2025-04-29_
+
+![CleanShot 2025-04-29 at 20 39 20@2x](https://github.com/user-attachments/assets/e2e4da95-032c-4ffe-b34f-02428a3862e8)
+
+- Added Mac menubar shortcut for Ambient Chat
+- Fixed crash loop if you're on waitlist
+- Bugfix for Claude image support
+
 ## 0.7.16
 _2025-04-24_
 
