@@ -1,3 +1,8 @@
+## 0.7.18
+_2025-05-01_
+
+Fixed bug that can cause app to crash if reviewers are on and you're using your own API keys
+
 ## 0.7.17
 _2025-04-29_
 
