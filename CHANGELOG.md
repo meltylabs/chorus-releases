@@ -1,3 +1,12 @@
+
+## 0.7.19
+_2025-05-01_
+
+- Added o4-mini as reviewer
+- Improved delete chat flow
+- UI tweaks on share chat modal
+
+
 ## 0.7.18
 _2025-05-01_
 
