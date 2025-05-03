@@ -1,4 +1,12 @@
+## 0.7.20
+_2025-05-03_
 
+![CleanShot 2025-05-03 at 14 49 23@2x](https://github.com/user-attachments/assets/9f72c1b7-58c6-4449-9685-1788202373ce)
+
+ Introducing Connections!
+
+Chorus can now search the web, use your terminal, and run any MCP server.
+ 
 ## 0.7.19
 _2025-05-01_
 
