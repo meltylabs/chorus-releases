@@ -9,7 +9,6 @@ https://github.com/user-attachments/assets/c80b8693-f268-424a-b8df-d941cdf1a38b
 
 Sorry about this. Once you're on 0.7.23, updates will work again.
 
-> [!NOTE]  
 > Curious how we messed this up? Our `package.json and `Cargo.toml` had different versions of the Tauri updater. We got them out of sync during a merge conflict. 
 
 
