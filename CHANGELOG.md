@@ -1,8 +1,14 @@
+## 0.7.22
+_2025-05-05_
+
+![CleanShot 2025-05-05 at 17 27 06@2x](https://github.com/user-attachments/assets/fdb47169-b7f1-4ce8-9748-775491a9b79d)
+
+Import your MCPs from Claude in one click.
+
 ## 0.7.21
 _2025-05-03_
 
 ![CleanShot 2025-05-03 at 14 58 03@2x](https://github.com/user-attachments/assets/08db5e91-dd18-4dac-a273-7aa1ebb1e6c4)
-
 
 Introducing Connections!
 
