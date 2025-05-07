@@ -1,3 +1,11 @@
+## 0.7.24
+_2025-05-07_
+![CleanShot 2025-05-07 at 09 56 35@2x](https://github.com/user-attachments/assets/a1188011-8dbd-4449-80b9-3562829de577)
+
+
+We updated Gemini 2.5 Pro to the [latest version](https://blog.google/products/gemini/gemini-2-5-pro-updates/) and fixed a re-render bug that happens during sign in.
+
+
 ## 0.7.23
 _2025-05-06_
 
