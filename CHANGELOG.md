@@ -5,7 +5,7 @@ _2025-05-06_
 
 If you have Chorus 0.7.21 or 0.7.22, please manually update to 0.7.23 by [downloading Chorus again](https://app.chorus.sh/download) and replacing the old version. 
 
-https://github.com/user-attachments/assets/c80b8693-f268-424a-b8df-d941cdf1a38b
+![DragChorus](https://github.com/user-attachments/assets/7e2a1cca-1d66-4f14-b11d-c7b22546c0c6)
 
 Sorry about this. Once you're on 0.7.23, updates will work again.
 
