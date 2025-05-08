@@ -1,3 +1,9 @@
+## 0.7.25
+
+![CleanShot 2025-05-08 at 10 29 44@2x](https://github.com/user-attachments/assets/d73e9c5d-ac2e-487e-ab1c-49467061330e)
+
+Improved thinking blocks and fixed a reviewer bug.
+
 ## 0.7.24
 _2025-05-07_
 ![CleanShot 2025-05-07 at 09 56 35@2x](https://github.com/user-attachments/assets/a1188011-8dbd-4449-80b9-3562829de577)
