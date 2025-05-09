@@ -1,3 +1,9 @@
+## 0.7.26
+
+![CleanShot 2025-05-09 at 10 33 31@2x](https://github.com/user-attachments/assets/1d9f9430-67ed-4d21-b918-4c7c2ab7d4fd)
+
+We've overhauled the connections tab to make it easier to add MCPs and see their status. 
+
 ## 0.7.25
 
 ![CleanShot 2025-05-08 at 10 29 44@2x](https://github.com/user-attachments/assets/d73e9c5d-ac2e-487e-ab1c-49467061330e)
