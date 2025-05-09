@@ -4,7 +4,7 @@
 
 We've overhauled the connections tab to make it easier to add MCPs and see their status. 
 
-## 0.7.25
+## 0.7.26
 
 ![CleanShot 2025-05-08 at 10 29 44@2x](https://github.com/user-attachments/assets/d73e9c5d-ac2e-487e-ab1c-49467061330e)
 
