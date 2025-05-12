@@ -1,16 +1,15 @@
-## 0.7.28
+## 0.8.0
 
-### New default mode, and Tab to Think Harder
+New default mode + tab to think harder:
+
+- There's a new default mode (formerly "Connections") where Chorus can access tools and MCP servers
+- In default mode, you can press `Tab` to run a more powerful model on the same prompt
+
+We've also added two new connections: Image Generator, which is powered by `gpt-image-1`, and Coder, which writes and edits source code files.
 
 ![CleanShot 2025-05-12 at 11 14 12@2x](https://github.com/user-attachments/assets/c306256c-24f1-42a0-86d1-93be6c152031)
 
-
-The new default mode in Chorus now has access to tools. We're also introducing Think Harder. Press `tab` in the default mode to run a more powerful mode on the same prompt.
-
 ![CleanShot 2025-05-12 at 11 14 48@2x](https://github.com/user-attachments/assets/1304e3fe-c3a4-44ff-b2a8-da473cd205db)
-
-
-We've also added media gen (powered by `gpt-image-1` and code editing connections.
 
 ![CleanShot 2025-05-12 at 11 14 28@2x](https://github.com/user-attachments/assets/5539a854-784d-4737-8821-91dba5992c38)
 
