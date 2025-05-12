@@ -1,3 +1,13 @@
+## 0.8.2
+
+- Bug fixes affecting reviews and synthesis
+- The Image Generator tools are now more reliable in rendering the images
+- Messages are now slightly wider
+
+## 0.8.1
+
+Fix a permissions issue that disabled all models
+
 ## 0.8.0
 
 New default mode + tab to think harder:
