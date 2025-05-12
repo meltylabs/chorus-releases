@@ -1,4 +1,16 @@
-## 0.7.26
+## 0.7.28
+
+![CleanShot 2025-05-12 at 11 10 47@2x](https://github.com/user-attachments/assets/ea202b27-0b63-41ad-aa3b-7999ccd7dde5)
+
+The new default mode in Chorus now has access to tools. We've also added media gen (powered by `gpt-image-1` and code editing connections.
+
+![CleanShot 2025-05-12 at 11 12 57@2x](https://github.com/user-attachments/assets/13b25864-6388-4e6c-832d-2732c0fcae48)
+
+We're also introducing Think Harder. Press `tab` in the default mode to run a more powerful mode on the same prompt.
+
+
+
+## 0.7.27
 
 ![CleanShot 2025-05-09 at 10 33 31@2x](https://github.com/user-attachments/assets/1d9f9430-67ed-4d21-b918-4c7c2ab7d4fd)
 
