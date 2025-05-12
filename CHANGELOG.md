@@ -1,5 +1,7 @@
 ## 0.7.28
 
+### New default mode, and Tab to Think Harder
+
 ![CleanShot 2025-05-12 at 11 14 12@2x](https://github.com/user-attachments/assets/c306256c-24f1-42a0-86d1-93be6c152031)
 
 
