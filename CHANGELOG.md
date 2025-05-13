@@ -12,7 +12,7 @@ Fixed bug that can cause images to silently fail
 
 Fix a permissions issue that disabled all models
 
-## 0.8.x
+## 0.8.0
 
 ### New default mode + tab to think harder
 
@@ -73,9 +73,11 @@ Import your MCPs from Claude in one click.
 ## 0.7.21
 _2025-05-03_
 
+### Introducing Connections!
+
 ![CleanShot 2025-05-03 at 14 58 03@2x](https://github.com/user-attachments/assets/08db5e91-dd18-4dac-a273-7aa1ebb1e6c4)
 
-Introducing Connections!
+
 
 Chorus can now search the web, use your terminal, and run any MCP server.
  
