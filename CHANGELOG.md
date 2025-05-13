@@ -1,5 +1,7 @@
 ## 0.8.3
 
+_2025-05-12_
+
 Fixed bug that can cause images to silently fail
 
 ## 0.8.2
