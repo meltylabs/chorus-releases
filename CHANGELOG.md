@@ -1,3 +1,7 @@
+## 0.8.3
+
+Fixed bug that can cause images to silently fail
+
 ## 0.8.2
 
 - Bug fixes affecting reviews and synthesis
@@ -8,9 +12,9 @@
 
 Fix a permissions issue that disabled all models
 
-## 0.8.0
+## 0.8.x
 
-New default mode + tab to think harder:
+### New default mode + tab to think harder
 
 - There's a new default mode (formerly "Connections") where Chorus can access tools and MCP servers
 - In default mode, you can press `Tab` to run a more powerful model on the same prompt
