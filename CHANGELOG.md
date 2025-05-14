@@ -1,3 +1,11 @@
+## 0.8.4
+_2025-05-13_
+
+- Much improved Ambient Chat custom keybindings recorder
+- Tool execution errors now show up in the UI
+- Fixed crash that can happen on dialogs
+
+
 ## 0.8.3
 
 _2025-05-12_
