@@ -2,6 +2,7 @@
 ## 0.8.5
 _2025-05-14_
 
+- You can have now only one blank new chat at time
 - New onboarding video
 - "Add" models in compare mode now persist
 
