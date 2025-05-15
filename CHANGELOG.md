@@ -1,3 +1,10 @@
+
+## 0.8.5
+_2025-05-14_
+
+- New onboarding video
+- "Add" models in compare mode now persist
+
 ## 0.8.4
 _2025-05-13_
 
