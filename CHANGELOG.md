@@ -1,3 +1,14 @@
+## 0.8.6
+_2025-05-17_
+
+![CleanShot 2025-05-17 at 18 02 49@2x](https://github.com/user-attachments/assets/10ee6a0d-08bf-48c0-b34f-d1cc4d484659)
+
+- Branch chats now have an icon and a link to their parent
+- Fixed chat re-ordering when you unpin or rename
+- Buttons are now rounded
+- Copy button in connections now copies full command
+- Models are now searchable by provider name
+- Add settings button to sidebar
 
 ## 0.8.5
 _2025-05-14_
