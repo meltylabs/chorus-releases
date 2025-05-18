@@ -1,7 +1,7 @@
 ## 0.8.6
 _2025-05-17_
 
-![CleanShot 2025-05-17 at 18 02 49@2x](https://github.com/user-attachments/assets/10ee6a0d-08bf-48c0-b34f-d1cc4d484659)
+![CleanShot 2025-05-17 at 18 14 23@2x](https://github.com/user-attachments/assets/d7108a7a-9806-4fb7-ad82-d8235d819c63)
 
 - Branch chats now have an icon and a link to their parent
 - Fixed chat re-ordering when you unpin or rename
