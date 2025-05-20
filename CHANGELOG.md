@@ -1,3 +1,15 @@
+## 0.8.7
+_2025-05-19_
+
+![CleanShot 2025-05-19 at 19 59 47@2x](https://github.com/user-attachments/assets/d1f6437f-cce3-446b-ab14-36c5f84e33aa)
+
+We've a GitHub connection so you can manage repos, code, issues, and PRs from Chorus.
+
+![CleanShot 2025-05-19 at 20 02 01@2x](https://github.com/user-attachments/assets/3114d8e5-72e3-482c-9e9d-5aaae595e0a8)
+
+We've also added LaTeX rendering in compare mode and fixed a rendering bug in default mode.
+
+
 ## 0.8.6
 _2025-05-17_
 
