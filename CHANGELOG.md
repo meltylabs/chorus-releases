@@ -1,3 +1,13 @@
+## 0.8.8
+_2025-05-20_
+
+- Tab now works in form fields
+- Only one dialog can be open at once
+- Top bar no longer goes across sidebar
+- Reviews now regenerate when you regenerate a response
+- Mermaid theme works in light/dark mode
+- Model picker now remembers if you clicked "show OpenRouter models"
+
 ## 0.8.7
 _2025-05-19_
 
