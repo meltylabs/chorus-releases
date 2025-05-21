@@ -1,6 +1,7 @@
 ## 0.8.8
 _2025-05-20_
 
+- We've added information about what [data we collect](http://docs.chorus.sh/privacy)
 - Tab now works in form fields
 - Only one dialog can be open at once
 - Top bar no longer goes across sidebar
