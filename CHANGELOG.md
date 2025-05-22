@@ -3,7 +3,7 @@ _2025-05-22_
 
 ![CleanShot 2025-05-22 at 10 36 38@2x](https://github.com/user-attachments/assets/499a36af-0484-42b4-b32b-ca1bfafc6884)
 
-Claude 4 Sonnet and Opus are live in Chorus.
+We've added Claude 4 Sonnet and Opus.
 
 ## 0.8.9
 _2025-05-22_
