@@ -1,3 +1,10 @@
+## 0.8.10
+_2025-05-22_
+
+
+
+Claude 4 Sonnet and Opus are live in Chorus.
+
 ## 0.8.9
 _2025-05-22_
 
