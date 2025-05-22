@@ -1,7 +1,7 @@
 ## 0.8.9
 _2025-05-22_
 
-- Fix a bug that caused strange behavior from delete chat dialogs, attachment preview dialogs, and message fullscreen dialogs
+Fix a bug that caused strange behavior from delete chat dialogs, attachment preview dialogs, and message fullscreen dialogs
 
 ## 0.8.8
 _2025-05-20_
