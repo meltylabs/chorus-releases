@@ -1,7 +1,10 @@
 ## 0.9.2
 _2025-05-28_
 
-Fixes URL scraping bug.
+![CleanShot 2025-05-28 at 16 18 06@2x](https://github.com/user-attachments/assets/64c4f2f6-e06d-475b-92c8-7fc6fae8e0a8)
+
+- Fixes Magic project toggle
+- Fixes URL scraping bug
 
 ## 0.9.0
 _2025-05-27_
