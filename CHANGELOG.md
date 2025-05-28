@@ -1,9 +1,9 @@
 ## 0.9.0
 _2025-05-27_
 
-![CleanShot 2025-05-27 at 19 57 47@2x](https://github.com/user-attachments/assets/22f74a2d-a89d-4f74-9046-6201b1dd6236)
+### Introducing Chorus Projects, a new way of managing shared context across chats. 
 
-Introducing Chorus Projects, a new way of managing shared context across chats. 
+![CleanShot 2025-05-27 at 19 57 47@2x](https://github.com/user-attachments/assets/22f74a2d-a89d-4f74-9046-6201b1dd6236)
 
 You can add text and attachments to a project's editor. Anything you add to a project is share across chats in that project.
 
