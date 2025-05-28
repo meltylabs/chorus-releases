@@ -10,8 +10,7 @@ You can add text and attachments to a project's editor. Anything you add to a pr
 We've also added a new tool called Magic Context. When Magic Context is on, Chorus takes key information from your chats and *automatically* adds it to that project's context.
 
 ![CleanShot 2025-05-27 at 20 10 57@2x](https://github.com/user-attachments/assets/a65859be-303e-434e-9502-d46d20320b7c)
-
-![CleanShot 2025-05-27 at 20 14 38@2x](https://github.com/user-attachments/assets/0f2b76d7-ed53-4559-93fd-53fe23e65be6)
+![CleanShot 2025-05-27 at 20 17 40@2x](https://github.com/user-attachments/assets/f1f8b434-b836-42c6-88c4-d7ce6b34fd49)
 
 ![CleanShot 2025-05-27 at 20 16 39@2x](https://github.com/user-attachments/assets/3e991f3a-f712-4582-ad80-0f6a9c0004bb)
 
