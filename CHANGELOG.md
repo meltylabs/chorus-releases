@@ -13,8 +13,6 @@ We've also added a new tool called Magic Context. When Magic Context is on, Chor
 
 ![CleanShot 2025-05-27 at 20 14 38@2x](https://github.com/user-attachments/assets/0f2b76d7-ed53-4559-93fd-53fe23e65be6)
 
-
-![CleanShot 2025-05-27 at 19 59 11@2x](https://github.com/user-attachments/assets/ebd37b8b-9c59-4b32-a0bb-cf270a64cf7e)
 ![CleanShot 2025-05-27 at 20 16 39@2x](https://github.com/user-attachments/assets/3e991f3a-f712-4582-ad80-0f6a9c0004bb)
 
 
