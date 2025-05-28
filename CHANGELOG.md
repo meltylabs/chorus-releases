@@ -1,7 +1,7 @@
 ## 0.9.2
 _2025-05-28_
 
-Fixes bug that causes URLs that fail to break a chat
+Fixes URL scraping bug.
 
 ## 0.9.0
 _2025-05-27_
