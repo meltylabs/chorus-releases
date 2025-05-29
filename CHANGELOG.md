@@ -1,14 +1,19 @@
 ## 0.10.0
-_2025-05-28_
+_2025-05-29_
 
 ![CleanShot 2025-05-28 at 21 48 49@2x](https://github.com/user-attachments/assets/d533a507-4b54-477d-b9d6-4d8374953a65)
 
-We've simplified Chorus. Run the models side by side and give them all tool access in the default mode.
+We’ve simplified Chorus. Now there’s just one mode (replacing Default, Reviews, and Compare) which lets you select your favorite models, use tools, and see responses side by side.
 
-We've removed Reviews and Synthesis for now. The plan is to bring back 2.0 versions of Reviews and Synthesis with a unified, simpler UX.
+Reviews and Synthesis are gone for now, but we’re working on bringing back the best parts of those ideas.
 
 Let us know what you think at founders@melty.sh.
 
+Fixes:
+
+- Fix a bug with system prompts that may have broken custom prompts
+- Fix minor issues with project context
+- Magic projects are no longer enabled by default
 
 ## 0.9.2
 _2025-05-28_
