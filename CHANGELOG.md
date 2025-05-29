@@ -9,11 +9,12 @@ Most existing chat messages will appear the same as before, except for "think ha
 
 Let us know what you think at founders@melty.sh.
 
-Fixes:
+Misc:
 
 - Fix a bug with system prompts that may have broken custom prompts
 - Fix minor issues with project context
 - Magic projects are no longer enabled by default
+- If you had Claude 3.7 selected, we updated it to Claude 4. If you want to keep going with Claude 3.7 instead, you can reselect it in the model picker
 
 ## 0.9.2
 _2025-05-28_
