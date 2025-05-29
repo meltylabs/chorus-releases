@@ -1,3 +1,14 @@
+## 0.10.1
+_2025-05-29_
+
+Minor improvements:
+
+- Fixed an issue where multiple responses would appear side-by-side in quick chat
+- Fixed a glitch where clicking to an attachment on a user message would start editing the message
+- Fixed an issue where Mermaid diagrams would sometimes fail to render
+- Fixed a UI glitch where expanding a tools block would make the message wider
+- Cleaned up the project context page
+
 ## 0.10.0
 _2025-05-29_
 
