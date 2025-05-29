@@ -1,3 +1,15 @@
+## 0.9.3
+_2025-05-28_
+
+![CleanShot 2025-05-28 at 21 48 49@2x](https://github.com/user-attachments/assets/d533a507-4b54-477d-b9d6-4d8374953a65)
+
+We've simplified Chorus. Run the models side by side and give them all tool access in the default mode.
+
+We've removed Reviews and Synthesis for now. The plan is to bring back 2.0 versions of Reviews and Synthesis with a unified, simpler UX.
+
+Let us know what you think!
+
+
 ## 0.9.2
 _2025-05-28_
 
