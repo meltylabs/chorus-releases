@@ -5,7 +5,7 @@ _2025-05-29_
 
 We’ve simplified Chorus. Now there’s just one mode (replacing Default, Reviews, and Compare) which lets you select your favorite models, use tools, and see responses side by side.
 
-Reviews and Synthesis are gone for now, but we’re working on bringing back the best parts of those ideas.
+Most existing chat messages will appear the same as before, except for "think harder" messages, which will now appear side-by-side. Reviews and synthesis are gone for now, but we’re working on bringing back the best parts of those ideas.
 
 Let us know what you think at founders@melty.sh.
 
