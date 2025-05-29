@@ -7,7 +7,7 @@ We've simplified Chorus. Run the models side by side and give them all tool acce
 
 We've removed Reviews and Synthesis for now. The plan is to bring back 2.0 versions of Reviews and Synthesis with a unified, simpler UX.
 
-Let us know what you think!
+Let us know what you think at founders@melty.sh.
 
 
 ## 0.9.2
