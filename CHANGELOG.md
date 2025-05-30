@@ -1,3 +1,15 @@
+## 0.10.2
+_2025-05-30_
+
+There's now a branch button on each AI message. When you branch from a message, that message will be selected (included in the chat history) in the new chat.
+
+<img width="513" alt="image" src="https://github.com/user-attachments/assets/124e8ac3-08e4-4af2-af8c-87076cae8926" />
+
+Bug fixes:
+
+- Fixed a bug where the wrong message preview dialogs would open
+- Fixed a styling issue in Ambient Chat
+
 ## 0.10.1
 _2025-05-29_
 
