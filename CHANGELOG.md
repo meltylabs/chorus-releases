@@ -3,6 +3,8 @@ _2025-05-31_
 
 You can now drag chats into and out of projects!
 
+<img src="https://github.com/user-attachments/assets/d1364c64-66bb-42e9-b404-ab31ab8e7dd8" alt="drag and drop" width="300" />
+
 Fixes:
 
 - Fixed an issue where some keyboard shortcuts could optionally take unexpected modifier keys. This should reduce conflicts with other apps.
