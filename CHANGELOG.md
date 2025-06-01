@@ -1,3 +1,21 @@
+## 0.10.3
+_2025-05-31_
+
+You can now drag chats into and out of projects!
+
+Fixes:
+
+- Fixed an issue where some keyboard shortcuts could optionally take unexpected modifier keys. This should reduce conflicts with other apps.
+- Fixed an issue where some attachments couldn't be deleted
+- Fixed an issue where loading attachments could cause models to error out
+- Fixed a glitch where, in very long chats, the scroll bar might get hidden behind the top bar
+- Fixed an issue with the Supabase MCP server
+
+Misc:
+
+- The top bar is now always visible (previously it would hide itself after 3 seconds)
+- Removed Claude 3.7 from the model picker
+
 ## 0.10.2
 _2025-05-30_
 
