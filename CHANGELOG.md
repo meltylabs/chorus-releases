@@ -9,7 +9,7 @@ Improvements:
 
 - Added support for Deepseek R1 0528 via OpenRouter 
 - Added support for tools in OpenRouter models
-- Messages that are not in chat are now slightly faded out
+- Responses that are not in chat are now slightly faded out
 
 Fixes: 
 
