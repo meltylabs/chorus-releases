@@ -8,7 +8,8 @@ Chorus now suggests topics for new chats based on your recent chat history:
 Improvements:
 
 - Added support for Deepseek R1 0528 via OpenRouter 
-- Added support for tools in OpenRouter models 
+- Added support for tools in OpenRouter models
+- Messages that are not in chat are now slightly faded out
 
 Fixes: 
 
