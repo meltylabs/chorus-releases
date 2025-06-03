@@ -1,3 +1,23 @@
+# 0.10.4
+_2025-06-03_
+
+Chorus now suggests topics for new chats based on your recent chat history: 
+
+![CleanShot 2025-06-03 at 11 45 36@2x](https://github.com/user-attachments/assets/9805bb93-ca28-4638-91f1-52223645d78c)
+
+Improvements: 
+
+- Added support for Deepseek R1 0528 via OpenRouter 
+- Added support for tools in OpenRouter models 
+
+Fixes: 
+
+- Fixed a performance issue with large attachments, which will now upload and render faster
+- Improved error messages for attachments that fail to upload 
+- Fixed an issue where users could toggle vision mode in quick chats without granting Chorus screen sharing permissions 
+- Fixed an issue where long project descriptions would forcibly scroll to the top of the page on user input 
+- Fixed an issue where Magic Context in projects would automatically update far too often 
+
 ## 0.10.3
 _2025-05-31_
 
