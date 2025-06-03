@@ -3,7 +3,7 @@ _2025-06-03_
 
 Chorus now suggests topics for new chats based on your recent chat history: 
 
-![CleanShot 2025-06-03 at 11 45 36@2x](https://github.com/user-attachments/assets/9805bb93-ca28-4638-91f1-52223645d78c)
+![CleanShot 2025-06-03 at 11 55 20@2x](https://github.com/user-attachments/assets/35309ed7-a7c0-4750-964f-02d0240d92e5)
 
 Improvements: 
 
