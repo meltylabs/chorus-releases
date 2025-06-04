@@ -1,3 +1,27 @@
+# 0.10.5 
+_2025-06-04_ 
+
+Introducing **Staff Picks** - curated model recommendations by the Chorus team. Read more about our picks [here](https://docs.chorus.sh/recommended-models). 
+
+![CleanShot 2025-06-04 at 11 08 26@2x](https://github.com/user-attachments/assets/f49497f2-4259-4aa0-a085-93bb014a53c8) 
+
+- Improvements: 
+
+- Added Chorus pro-tips in new chats 
+- Improved the appearance of suggested prompts in new chats 
+- Simplified onboarding flow 
+- Moved the list of selected models above the search bar in the model picker 
+
+Fixes: 
+
+- Fixed a performance issue linked to having many chats 
+- Fixed an issue where converting ambient chats to regular chats would cause improper rendering of chat history 
+- More cohesive button styling 
+
+Misc: 
+
+- Web tools are now enabled by default for new users 
+
 # 0.10.4
 _2025-06-03_
 
