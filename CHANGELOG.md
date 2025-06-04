@@ -5,7 +5,7 @@ Introducing **Staff Picks** - curated model recommendations by the Chorus team. 
 
 ![CleanShot 2025-06-04 at 11 08 26@2x](https://github.com/user-attachments/assets/f49497f2-4259-4aa0-a085-93bb014a53c8) 
 
-- Improvements: 
+Improvements: 
 
 - Added Chorus pro-tips in new chats 
 - Improved the appearance of suggested prompts in new chats 
