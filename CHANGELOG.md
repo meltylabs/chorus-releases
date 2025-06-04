@@ -7,16 +7,16 @@ Introducing **Staff Picks** - curated model recommendations by the Chorus team. 
 
 Improvements: 
 
-- Added Chorus pro-tips in new chats 
-- Improved the appearance of suggested prompts in new chats 
-- Simplified onboarding flow 
-- Moved the list of selected models above the search bar in the model picker 
+- Added some hints about how to use Chorus on the new chat page 
+- Improved the appearance of the prompt suggestions that show up in new chats
+- Simplified the onboarding flow 
+- In the model picker, moved the list of selected models above the search bar 
 
 Fixes: 
 
 - Fixed a performance issue linked to having many chats 
-- Fixed an issue where converting ambient chats to regular chats would cause improper rendering of chat history 
-- More cohesive button styling 
+- Fixed an issue where converting ambient chats to regular chats would cause improper rendering of chat history (will take effect for new ambient chats)
+- Minor UI tweaks for consistency
 
 Misc: 
 
