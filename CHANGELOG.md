@@ -1,3 +1,11 @@
+# 0.10.6
+_2025-06-05_
+
+![CleanShot 2025-06-05 at 10 42 46@2x](https://github.com/user-attachments/assets/fa4f3757-c3d6-4614-88cb-a087e1088ec4)
+
+We've added the new, more powerful Gemini 2.5 Pro. Read more about [improvements here](https://blog.google/products/gemini/gemini-2-5-pro-latest-preview/).
+
+
 # 0.10.5 
 _2025-06-04_ 
 
@@ -5,14 +13,14 @@ Introducing **Staff Picks** - curated model recommendations by the Chorus team. 
 
 ![CleanShot 2025-06-04 at 11 08 26@2x](https://github.com/user-attachments/assets/f49497f2-4259-4aa0-a085-93bb014a53c8) 
 
-Improvements: 
+Improvements
 
 - Added some hints about how to use Chorus on the new chat page 
 - Improved the appearance of the prompt suggestions that show up in new chats
 - Simplified the onboarding flow 
 - In the model picker, moved the list of selected models above the search bar 
 
-Fixes: 
+Fixes
 
 - Fixed a performance issue linked to having many chats 
 - Fixed an issue where converting ambient chats to regular chats would cause improper rendering of chat history (will take effect for new ambient chats)
@@ -29,13 +37,13 @@ Chorus now suggests topics for new chats based on your recent chat history:
 
 <img src="https://github.com/user-attachments/assets/35309ed7-a7c0-4750-964f-02d0240d92e5" alt="drag and drop" width="450" />
 
-Improvements:
+Improvements
 
 - Added support for Deepseek R1 0528 via OpenRouter 
 - Added support for tools in OpenRouter models
 - Responses that are not in chat are now slightly faded out
 
-Fixes: 
+Fixes
 
 - Fixed some performance issues related to attachments
 - Now, when Ambient Chat doesn't have the permissions needed to enter vision mode, it shows a warning instead of failing silently
@@ -52,7 +60,7 @@ You can now drag chats into and out of projects!
 
 <img src="https://github.com/user-attachments/assets/d1364c64-66bb-42e9-b404-ab31ab8e7dd8" alt="drag and drop" width="300" />
 
-Fixes:
+Fixes
 
 - Fixed an issue where some keyboard shortcuts could optionally take unexpected modifier keys. This should reduce conflicts with other apps.
 - Fixed an issue where some attachments couldn't be deleted
@@ -60,7 +68,7 @@ Fixes:
 - Fixed a glitch where, in very long chats, the scroll bar might get hidden behind the top bar
 - Fixed an issue with the Supabase MCP server
 
-Misc:
+Misc
 
 - The top bar is now always visible (previously it would hide itself after 3 seconds)
 - Removed Claude 3.7 from the model picker
