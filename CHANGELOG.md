@@ -1,4 +1,4 @@
-# 0.10.7 
+# 0.10.7 - 0.10.8
 _2025-06-07_ 
 
 We've updated Chorus's design system, including some touch ups to the app sidebar to make creating new chats and projects easier! 
