@@ -1,3 +1,20 @@
+# 0.10.7 
+_2025-06-06_ 
+
+We've updated Chorus's design system, including some touch ups to the app sidebar to make creating new chats and projects easier! 
+
+![CleanShot 2025-06-07 at 13 25 45@2x](https://github.com/user-attachments/assets/556d1f97-1387-4004-92cf-961fd4fa69a7) 
+
+Fixes: 
+
+- Several performance optimizations to support having a large number of chats in Chorus 
+- Fixed a bug where the `enter` key was broken in cautious enter mode
+- Fixed a bug where Chorus's URL scraper attempted to scrape email addresses
+
+Misc: 
+
+- We've moved o3 from the `frontier` to the `plus` pricing model 
+
 # 0.10.6
 _2025-06-05_
 
