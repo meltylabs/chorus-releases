@@ -1,3 +1,15 @@
+# 0.10.9 
+_2025-06-08_ 
+
+Fixes: 
+
+- Fixed a bug where logging in during onboarding could hang indefinitely
+- Fixed a UI bug where ambient chat icons were difficult to see over dark backgrounds
+
+Misc: 
+
+- Removed unused API key input for Deepseek models, which go through OpenRouter. 
+
 # 0.10.7 - 0.10.8
 _2025-06-07_ 
 
