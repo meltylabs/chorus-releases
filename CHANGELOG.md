@@ -4,23 +4,23 @@ _2025-06-08_
 Fixes: 
 
 - Fixed a bug where logging in during onboarding could hang indefinitely
-- Fixed a UI bug where ambient chat icons were difficult to see over dark backgrounds
+- Fixed a UI bug in Ambient Chat where icons were difficult to see over dark backgrounds
 
 Misc: 
 
-- Removed unused API key input for Deepseek models, which go through OpenRouter. 
+- Removed the option to enter a Deepseek API key. R1 will use your OpenRouter API key if you set one.
 
 # 0.10.7 - 0.10.8
 _2025-06-07_ 
 
-We've updated Chorus's design system, including some touch ups to the app sidebar to make creating new chats and projects easier! 
+We've updated Chorus's design system, including some touch-ups to the sidebar to make creating new chats and projects easier! 
 
 ![CleanShot 2025-06-07 at 13 25 45@2x](https://github.com/user-attachments/assets/556d1f97-1387-4004-92cf-961fd4fa69a7) 
 
 Fixes: 
 
 - Several performance optimizations to support having a large number of chats in Chorus 
-- Fixed a bug where the `enter` key was broken in cautious enter mode
+- Fixed a bug that broke the `enter` key in cautious enter mode
 - Fixed a bug where Chorus's URL scraper attempted to scrape email addresses
 
 Misc: 
