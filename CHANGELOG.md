@@ -1,12 +1,14 @@
 # o3-pro
-_0.10.10_ * June 9th, 2025
+_0.10.11_
+June 10th, 2025
 
 ![CleanShot 2025-06-10 at 16 07 00@2x](https://github.com/user-attachments/assets/300976c4-c71f-4fb3-99b0-32dcb85d71ad)
 
 We’ve added OpenAI’s newest and most powerful model, o3-pro.
 
 # Custom system prompts
-_0.10.10_ * June 9th, 2025
+_0.10.10_ 
+June 9th, 2025
 
 ![CleanShot 2025-06-09 at 18 48 57@2x](https://github.com/user-attachments/assets/43734c8d-8f5b-4d4f-bd84-9d1ea9fe4061)
 
