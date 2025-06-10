@@ -1,14 +1,21 @@
+# o3-pro
+_0.10.10_ * June 9th, 2025
+
+![CleanShot 2025-06-10 at 16 05 20@2x](https://github.com/user-attachments/assets/5799a2d7-bb88-4fcd-9f12-edbd04726573)
+
+We’ve added OpenAI’s newest and most powerful model, o3-pro.
+
 # Custom system prompts
 _0.10.10_ * June 9th, 2025
 
+![CleanShot 2025-06-09 at 18 48 57@2x](https://github.com/user-attachments/assets/43734c8d-8f5b-4d4f-bd84-9d1ea9fe4061)
 
 You can now set a custom prompt that all models will respect. (Change it in Settings -> General.)
 
-![CleanShot 2025-06-09 at 18 48 57@2x](https://github.com/user-attachments/assets/43734c8d-8f5b-4d4f-bd84-9d1ea9fe4061)
+![CleanShot 2025-06-09 at 18 49 38@2x](https://github.com/user-attachments/assets/c40f695f-d562-48ea-9d9a-f5e4b08e9250)
 
 We’ve also improved the message composer.
 
-![CleanShot 2025-06-09 at 18 49 38@2x](https://github.com/user-attachments/assets/c40f695f-d562-48ea-9d9a-f5e4b08e9250)
 
 Fixes:
 
