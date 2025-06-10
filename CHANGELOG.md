@@ -1,3 +1,20 @@
+# 0.10.10
+_2025-06-09_ 
+
+You can now set a custom prompt that all models will respect (Change in Settings -> General).
+
+![CleanShot 2025-06-09 at 18 48 57@2x](https://github.com/user-attachments/assets/43734c8d-8f5b-4d4f-bd84-9d1ea9fe4061)
+
+We’ve also improved our chat input box. There's now an enter button :)
+
+![CleanShot 2025-06-09 at 18 49 38@2x](https://github.com/user-attachments/assets/c40f695f-d562-48ea-9d9a-f5e4b08e9250)
+
+Fixes:
+
+- A few minor fixes to displaying projects in the app sidebar
+- Fix a bug where chat suggestions would get hidden behind chat input box
+- DeepSeek R1 now supports tool use
+
 # 0.10.9 
 _2025-06-08_ 
 
