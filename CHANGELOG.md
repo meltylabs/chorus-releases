@@ -1,7 +1,7 @@
 # o3-pro
 _0.10.10_ * June 9th, 2025
 
-![CleanShot 2025-06-10 at 16 05 20@2x](https://github.com/user-attachments/assets/5799a2d7-bb88-4fcd-9f12-edbd04726573)
+![CleanShot 2025-06-10 at 16 07 00@2x](https://github.com/user-attachments/assets/300976c4-c71f-4fb3-99b0-32dcb85d71ad)
 
 We’ve added OpenAI’s newest and most powerful model, o3-pro.
 
