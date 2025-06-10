@@ -3,18 +3,18 @@
 _2025-06-09_ 
 
 
-You can now set a custom prompt that all models will respect (Change in Settings -> General).
+You can now set a custom prompt that all models will respect. (Change it in Settings -> General.)
 
 ![CleanShot 2025-06-09 at 18 48 57@2x](https://github.com/user-attachments/assets/43734c8d-8f5b-4d4f-bd84-9d1ea9fe4061)
 
-We’ve also improved our chat input box. There's now an enter button :)
+We’ve also improved the message textbox. There's now an enter button :)
 
 ![CleanShot 2025-06-09 at 18 49 38@2x](https://github.com/user-attachments/assets/c40f695f-d562-48ea-9d9a-f5e4b08e9250)
 
 Fixes:
 
-- A few minor fixes to displaying projects in the app sidebar
-- Fix a bug where chat suggestions would get hidden behind chat input box
+- A few minor fixes to how projects show up in the sidebar
+- Fix a bug where chat suggestions would get hidden behind the message textbox
 - DeepSeek R1 now supports tool use
 
 # 0.10.9 
@@ -38,13 +38,13 @@ We've updated Chorus's design system, including some touch-ups to the sidebar to
 
 Fixes: 
 
-- Several performance optimizations to support having a large number of chats in Chorus 
-- Fixed a bug that broke the `enter` key in cautious enter mode
+- Several performance optimizations to support having a large number of chats 
+- Fixed a bug that broke the `enter` key in "cautious enter" mode
 - Fixed a bug where Chorus's URL scraper attempted to scrape email addresses
 
 Misc: 
 
-- We've moved o3 from the `frontier` to the `plus` pricing model 
+- o3 is now available to `plus` users as well as `frontier` users
 
 # 0.10.6
 _2025-06-05_
