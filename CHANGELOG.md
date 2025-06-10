@@ -1,5 +1,5 @@
 # Custom system prompts
-_0.10.10_ | _2025-06-09_ 
+_0.10.10_ * June 9th, 2025
 
 
 You can now set a custom prompt that all models will respect. (Change it in Settings -> General.)
