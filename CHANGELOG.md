@@ -1,17 +1,15 @@
 # Custom system prompts
-### 0.10.10
+#### 0.10.10
 _2025-06-09_ 
-
-![CleanShot 2025-06-09 at 18 48 57@2x](https://github.com/user-attachments/assets/43734c8d-8f5b-4d4f-bd84-9d1ea9fe4061)
 
 
 You can now set a custom prompt that all models will respect (Change in Settings -> General).
 
-![CleanShot 2025-06-09 at 18 49 38@2x](https://github.com/user-attachments/assets/c40f695f-d562-48ea-9d9a-f5e4b08e9250)
-
+![CleanShot 2025-06-09 at 18 48 57@2x](https://github.com/user-attachments/assets/43734c8d-8f5b-4d4f-bd84-9d1ea9fe4061)
 
 We’ve also improved our chat input box. There's now an enter button :)
 
+![CleanShot 2025-06-09 at 18 49 38@2x](https://github.com/user-attachments/assets/c40f695f-d562-48ea-9d9a-f5e4b08e9250)
 
 Fixes:
 
