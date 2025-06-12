@@ -1,3 +1,23 @@
+# New home page
+_0.10.12_
+June 11th, 2025 
+
+We’ve revamped our home page to prioritize making new chats easy and intuitive: 
+
+![CleanShot 2025-06-11 at 17.58.16@2x.png](attachment:3d8eb4c8-6b80-4ba4-a346-e865102eca3b:CleanShot_2025-06-11_at_17.58.162x.png)
+
+We’ve also updated the projects section of the sidebar to give first-time users a clear call to action: 
+
+![CleanShot 2025-06-11 at 17.57.39@2x.png](attachment:bc6aaa81-06d3-4118-b1c9-d073b6f9f49d:CleanShot_2025-06-11_at_17.57.392x.png)
+
+Other Improvements: 
+
+- Pasting files and URLs is now supported in project descriptions
+
+Fixes: 
+
+- Fixed a bug where messages could get stuck with a loading icon
+
 # o3-pro
 _0.10.11_
 June 10th, 2025
