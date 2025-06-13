@@ -1,13 +1,5 @@
-# Drag and drop file bug fix 
-_0.11.1_ 
-June 13th, 2035 
-
-Fixes: 
-
-- Fixed a bug where drag and dropping files into Chorus would show a benign `Invalid file` error message. 
-
 # UI touch-ups and improved updater
-_0.11.0_
+_0.11.1_
 June 13th, 2025 
 
 ![CleanShot 2025-06-13 at 11 58 46@2x](https://github.com/user-attachments/assets/d5a0dec5-9c90-4aa0-ad15-353ee6a20bd6)
