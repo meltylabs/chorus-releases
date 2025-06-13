@@ -1,4 +1,4 @@
-# UI touch-ups and 
+# UI touch-ups and improved updater
 _0.11.0_
 June 13th, 2025 
 
