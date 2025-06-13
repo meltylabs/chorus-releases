@@ -1,3 +1,25 @@
+# UI touch-ups and 
+_0.11.0_
+June 13th, 2025 
+
+![CleanShot 2025-06-13 at 11 58 46@2x](https://github.com/user-attachments/assets/d5a0dec5-9c90-4aa0-ad15-353ee6a20bd6)
+
+We’ve re-designed the Chorus navbar, and touched up the sidebar.
+
+Improvements: 
+
+- Updates now install in the background automatically
+- Add support for importing chat history from OpenAI and Anthropic
+
+Fixes: 
+
+- Fixed a bug where text in user messages could overflow the message container
+- Fixed a bug where selecting a model in the model picker would reset position in the scroll bar
+
+Misc: 
+
+- Reduce the `max_token` size for Anthropic models to prevent early out of context errors
+
 # New home page
 _0.10.12_
 June 11th, 2025 
