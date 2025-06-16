@@ -1,3 +1,25 @@
+## Import Chat History
+_0.11.2_
+June 16th, 2025 
+
+You can now import your conversation history from OpenAI and Anthropic! 
+
+![image](https://github.com/user-attachments/assets/c9df9c0e-2423-4c21-b7cc-1d874e976347) 
+
+We’ve also revamped the projects page to make managing your chats and project context easier.
+
+![image](https://github.com/user-attachments/assets/de0be905-efca-49ad-ac72-da2574a0cbb5) 
+
+Improvements: 
+
+- Emphasize selected models in message composer
+- Added descriptions for all built-in MCP connections in settings
+
+Fixes:
+
+- Fixed a bug where the system prompt could not be set to an empty string
+- Fixed a bug in dark mode where MCP connections in settings would become unreadable on hover
+
 # UI touch-ups and improved updater
 _0.11.1_
 June 13th, 2025 
