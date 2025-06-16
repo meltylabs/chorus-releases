@@ -1,4 +1,4 @@
-## Import Chat History
+# Import Chat History
 _0.11.2_
 June 16th, 2025 
 
