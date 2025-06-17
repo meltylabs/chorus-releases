@@ -1,3 +1,20 @@
+# Remote MCPs 
+_0.11.3_
+June 17th, 2025 
+
+We’ve added support for Remote MCPs in Chorus! To add a remote MCP, go to Settings → Connections → Add Remote MCP 
+
+![image](https://github.com/user-attachments/assets/6e8d7a45-fda2-42ff-873a-4703a69e02e5) 
+
+Chorus supports both SSE and Streamable HTTP transport protocols. 
+
+Fixes:
+
+- Fixed a bug where menu shortcuts (new chat, settings, etc.) would occasionally stop working
+- Fixed a race condition that caused responses to occasionally appear out of order
+- Fixed spacing between attachments in the message composer
+- Fixed a regex error on older MacOS versions that would prevent users from sending messages
+
 # Import Chat History
 _0.11.2_
 June 16th, 2025 
