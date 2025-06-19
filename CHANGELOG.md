@@ -1,3 +1,20 @@
+# Summarize Out of Context Chats 
+_0.11.4_ 
+June 19th, 2025 
+
+When you reach the context limit in a chat, Chorus will now help you summarize your chat and create a new one! 
+
+![image](https://github.com/user-attachments/assets/a0016375-91a9-4bb8-868c-21178bf666fd) 
+
+Fixes:
+
+- Fix various bugs when using the command menu to search for chats
+
+Misc: 
+
+- Update Chorus’s prompts used for summarizing chats
+- Update Chorus’s toast component
+
 # Remote MCPs 
 _0.11.3_
 June 17th, 2025 
