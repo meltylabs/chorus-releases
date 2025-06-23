@@ -4,7 +4,7 @@ June 23rd, 2025
 
 Introducing replies! Ask follow-up questions to model responses while keeping your chat history clean. Learn more in the [Chorus docs]("https://docs.chorus.sh/core/replies"). 
 
-![replies-light](https://github.com/user-attachments/assets/4468acec-ce23-48a7-af72-6cb6d9803f0a) 
+![CleanShot 2025-06-23 at 15 35 18@2x](https://github.com/user-attachments/assets/afd7b92a-af01-4dc8-a966-823787ea1534) 
 
 Fixes: 
 
