@@ -11,7 +11,8 @@ Fixes:
 - Fixed a bug with keyboard navigation in the model picker
 
 Misc: 
-- Show more (100k) characters in an attachment preview 
+
+- Show more (100k) characters in attachment previews 
 
 # Summarize Out of Context Chats 
 _0.11.4_ 
