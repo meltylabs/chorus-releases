@@ -1,3 +1,15 @@
+# Replies 
+_0.12.0_ 
+June 23rd, 2025 
+
+Introducing replies! Ask follow-up questions to model responses while keeping your chat history clean. 
+
+https://github.com/user-attachments/assets/b127b4a1-cb93-4644-982e-9354ef08a109 
+
+Fixes: 
+
+- Fixed a bug with keyboard navigation in the model picker
+
 # Summarize Out of Context Chats 
 _0.11.4_ 
 June 19th, 2025 
