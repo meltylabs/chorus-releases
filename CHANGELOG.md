@@ -8,8 +8,10 @@ Introducing replies! Ask follow-up questions to model responses while keeping yo
 
 Fixes: 
 
-
 - Fixed a bug with keyboard navigation in the model picker
+
+Misc: 
+- Show more (100k) characters in an attachment preview 
 
 # Summarize Out of Context Chats 
 _0.11.4_ 
