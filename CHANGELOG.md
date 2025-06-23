@@ -4,9 +4,10 @@ June 23rd, 2025
 
 Introducing replies! Ask follow-up questions to model responses while keeping your chat history clean. Learn more in the [Chorus docs]("https://docs.chorus.sh/core/replies"). 
 
-https://github.com/user-attachments/assets/b127b4a1-cb93-4644-982e-9354ef08a109 
+![replies-light](https://github.com/user-attachments/assets/4468acec-ce23-48a7-af72-6cb6d9803f0a) 
 
 Fixes: 
+
 
 - Fixed a bug with keyboard navigation in the model picker
 
