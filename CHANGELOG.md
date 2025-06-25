@@ -1,3 +1,18 @@
+# Minor bug fixes 
+_0.12.1_ 
+June 25th, 2025 
+
+Fixes:
+
+- Fixed an issue where the scroll to bottom button would appear over the replies pane
+- Fixed a text truncation issue in the sidebar that would occur when a user has no project
+
+Misc:
+
+- Secret prototype. Email us at `founders@melty.sh` if you want to try it out and send feedback.
+- Styling improvements on the project page
+- Removed the notification that shows up when project memory is updated
+
 # Replies 
 _0.12.0_ 
 June 23rd, 2025 
