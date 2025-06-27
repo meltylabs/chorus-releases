@@ -1,10 +1,12 @@
 # Deep Research
 _0.12.2_ 
-June 25th, 2025 
+June 26th, 2025 
 
 ![maxresdefault](https://github.com/user-attachments/assets/58ef7c5b-0bd5-4c1c-b37d-88ddb27d5b77)
 
-Deep Research is live in Chorus!
+OpenAI's Deep Research is live in Chorus! It uses OpenAI's most powerful model, `o3`, to search the web, compile sources, and write reports. To use it, search for `o3 Deep Research` in the model picker.
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/d09dd472-dc24-40f5-b7d7-156a52c5eca9" />
 
 # Minor bug fixes 
 _0.12.1_ 
