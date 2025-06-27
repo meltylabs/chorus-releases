@@ -1,3 +1,11 @@
+# Deep Research
+_0.12.2_ 
+June 25th, 2025 
+
+![maxresdefault](https://github.com/user-attachments/assets/58ef7c5b-0bd5-4c1c-b37d-88ddb27d5b77)
+
+Deep Research is live in Chorus!
+
 # Minor bug fixes 
 _0.12.1_ 
 June 25th, 2025 
