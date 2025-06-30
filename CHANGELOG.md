@@ -1,3 +1,23 @@
+# Improved Web Search
+_0.12.3_ 
+June 30th, 2025 
+
+![web](https://github.com/user-attachments/assets/3ea43542-b5a4-4c07-b07b-14249335d5d3)
+
+Our web tool now runs via Perplexity. It now takes fewer tool calls and returns better results.
+
+Improvements: 
+
+- Project memory is now default on
+- Deep Research notification now opens the chat it came from
+- Nicer looking attachment drop zone
+
+Fixes:
+
+- Feedback dialog
+- Improved Grok + OpenRouter logos
+- Hide new feature tooltip for new users
+
 # Deep Research
 _0.12.2_ 
 June 26th, 2025 
