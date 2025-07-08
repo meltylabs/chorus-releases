@@ -1,3 +1,23 @@
+# Manage Tool Permissions
+_0.12.4_
+July 7th, 2025
+
+![CleanShot 2025-07-07 at 19 36 44@2x](https://github.com/user-attachments/assets/ed073c9b-9d3b-474d-b19d-43f06490e65c)
+
+You can now toggle tool permissions. 
+
+Improvements:
+
+- Updated settings UI
+- Delete shared chats
+- Replicate MCP is now 1-click install
+- Link to documentation
+
+Fixes:
+
+- Allow for dashes in MCP names
+- Remove broken search link from command palette
+
 # Improved Web Search
 _0.12.3_ 
 June 30th, 2025 
