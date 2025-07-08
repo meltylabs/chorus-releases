@@ -4,7 +4,9 @@ July 7th, 2025
 
 ![CleanShot 2025-07-07 at 19 36 44@2x](https://github.com/user-attachments/assets/ed073c9b-9d3b-474d-b19d-43f06490e65c)
 
-You can now toggle tool permissions. Go to Settings → Tool Permissions to manage your permissions. When YOLO mode is on, all tool calls are automatically run by the models. When it's off, the AIs will ask you for permission before using a tool:
+You can now toggle tool permissions. Go to Settings → Tool Permissions to manage your permissions. When YOLO mode is on, Chorus will auto-run all tools. 
+
+When it's off, the AIs will ask you for permission before using a tool:
 
 ![CleanShot 2025-07-07 at 19 34 56@2x](https://github.com/user-attachments/assets/a4a1fb05-7499-4868-9b13-61b0d5078488)
 
