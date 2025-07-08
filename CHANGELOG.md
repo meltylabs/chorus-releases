@@ -1,5 +1,5 @@
 # Manage Tool Permissions
-_0.12.5_
+_0.12.4_ - _0.12.6_
 July 7th, 2025
 
 ![CleanShot 2025-07-07 at 19 36 44@2x](https://github.com/user-attachments/assets/ed073c9b-9d3b-474d-b19d-43f06490e65c)
