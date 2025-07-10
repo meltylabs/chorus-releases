@@ -1,3 +1,23 @@
+# Grok 4 
+_0.12.7_ 
+July 10th, 2025 
+
+<img width="367" height="137" alt="image" src="https://github.com/user-attachments/assets/7a83a6fc-a32f-4d94-8803-46bc967a7cba" />
+
+We’ve added Grok 4 to Chorus! 
+
+Improvements: 
+
+- Chorus will now maintain your zoom level across sessions
+
+Fixes:
+
+- Fixed a bug where the enter key didn’t work in the project context field
+- Fixed a bug where scrolling didn’t work while the AI was responding in threads
+- Fixed the “cautious enter” setting
+- Fixed a bug where creating a new ambient chat would erase an existing draft
+- Fixed a bug preventing keyboard navigation when the tools dialog was first opened
+
 # Manage Tool Permissions
 _0.12.4_ - _0.12.6_
 July 7th, 2025
