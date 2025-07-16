@@ -1,3 +1,20 @@
+# Fixes
+_0.12.8_
+July 16th, 2025
+
+Improvements: 
+
+- Tool use preference no longer sticky
+- Make refreshing OpenRouter models more obvious
+- Add custom base URL to settings
+- Add copy button to text file fullscreen preview
+
+Fixes:
+
+- Fix suggestions bottom border cut off
+- Fix Gemini 2.5 Flash preview model name
+
+
 # Grok 4 
 _0.12.7_ 
 July 10th, 2025 
