@@ -1,3 +1,17 @@
+# GPT-5 
+_0.12.9_ 
+August 7th, 2025 
+
+The GPT-5 family of models are now available in Chorus! 
+
+<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/956f59fa-866c-4c6d-8af3-8d62a62aa85c" />
+
+Improvements: 
+- We've upgraded Claude Opus 4 -> 4.1!
+
+Fixes: 
+- Fixed a bug where the tool permissions dialog could overflow 
+
 # Fixes
 _0.12.8_
 July 16th, 2025
