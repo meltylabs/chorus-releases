@@ -1,3 +1,9 @@
+# Fixes
+_0.12.10_
+August 16th, 2025
+
+Fixed an issue with summarization failing.
+
 # GPT-5 
 _0.12.9_ 
 August 7th, 2025 
