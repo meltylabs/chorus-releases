@@ -1,3 +1,9 @@
+# Sonnet 4.5
+_0.13.0_
+Sept. 30th, 2025
+
+Sonnet 4.5 is live in Chorus!
+
 # Fixes
 _0.12.10_
 August 16th, 2025
