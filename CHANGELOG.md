@@ -1,3 +1,15 @@
+# Open Source
+_0.14.0_
+Dec 14th, 2025
+
+Big news: we’re open sourcing Chorus.
+
+Starting later today, Chorus will be pay-as-you-go and run on API keys.
+
+Why? We’ve been heads-down focused on [Conductor](https://conductor.build), which we launched in July. But we’re still using Chorus ourselves, we still love it, and we want it to thrive. We’re hoping that by open sourcing the app it will gain a second life and start getting regular updates again.
+
+We’d recommend setting up an [OpenRouter API](https://openrouter.ai/settings/keys) key and adding it to Chorus in Settings → API Keys. Then you can keep using Chorus exactly as before, but with all the latest models.
+
 # Sonnet 4.5
 _0.13.0_
 Sept. 30th, 2025
