@@ -1,3 +1,22 @@
+# Direct Provider Models & Fixes
+_0.14.2_
+Dec 19th, 2025
+
+You can now use models directly from providers (Anthropic, OpenAI, Google, etc.) in the model picker without needing OpenRouter!
+
+Improvements:
+- Add direct provider models to model picker (Anthropic, OpenAI, Google, xAI, and more)
+- Fix image attachments not working with OpenRouter models — @Roberto
+- Use OpenRouter API metadata for image support detection — @Roberto
+- Chat titles no longer require an Anthropic key — @bcongdon
+- Refactor simpleLLM to use a unified provider system — @bcongdon
+
+Fixes:
+- Fix various TypeScript and lint errors — @bcongdon
+- Update OpenAI SDK to v6.10.0 — @Roberto
+- Update Tauri notification plugin version — @Roberto
+- Bump node version 20 -> 22 — @bcongdon
+
 # Open Source
 _0.14.0_
 Dec 14th, 2025
