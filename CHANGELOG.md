@@ -1,3 +1,14 @@
+# Cost Display for OpenRouter Models
+_0.14.4_
+Dec 27th, 2025
+
+Improvements:
+- OpenRouter models now show token cost per-message, per-project, and per-model after enabling a new setting.
+- Claude Opus 4.5 and Claude Haiku 4.5 can now be used through the Anthropic provider.
+
+Fixes:
+- The "Connection Failed" error in the Gemini provider has been fixed.
+
 # Direct Provider Models & Fixes
 _0.14.2_
 Dec 19th, 2025
