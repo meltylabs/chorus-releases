@@ -1,6 +1,6 @@
 # Cost Display for OpenRouter Models
-_0.14.3_
-Dec 23rd, 2025
+_0.14.4_
+Dec 27th, 2025
 
 Improvements:
 - OpenRouter models now show token cost per-message, per-project, and per-model after enabling a new setting.
