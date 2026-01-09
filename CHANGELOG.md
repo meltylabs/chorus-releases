@@ -1,3 +1,14 @@
+# Web Search and Keyboard Shortcut Fixes
+_0.14.5_
+Jan 8th, 2026
+
+Improvements:
+- You can now use Function Keys (e.g. F2) in keyboard shortcuts for ambient chats.
+- The "Web Search" tool can now use the OpenRouter hosted version of Perplexity instead of relying on a Perplexity API key.
+
+Fixes:
+- Fixed issue with Perplexity Provider failing due to improperly set headers.
+
 # Cost Display for OpenRouter Models
 _0.14.4_
 Dec 27th, 2025
